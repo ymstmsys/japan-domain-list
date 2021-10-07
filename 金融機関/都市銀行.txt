@@ -1,0 +1,5 @@
+みずほ銀行	www.mizuhobank.co.jp
+三井住友銀行	www.smbc.co.jp
+三菱UFJ銀行	www.bk.mufg.jp
+りそな銀行	www.resonabank.co.jp
+埼玉りそな銀行	www.saitamaresona.co.jp

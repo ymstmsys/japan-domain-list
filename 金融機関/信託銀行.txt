@@ -1,0 +1,11 @@
+オリックス銀行	www.orixbank.co.jp
+日本カストディ銀行	www.custody.jp
+新生信託銀行	www.shinseitrust.com
+三井住友信託銀行	www.smtb.jp
+SMBC信託銀行	www.smbctb.co.jp
+日証金信託銀行	www.jsftb.co.jp
+日本マスタートラスト信託銀行	www.mastertrust.co.jp
+農中信託銀行	www.nochutb.co.jp
+野村信託銀行	www.nomura-trust.co.jp
+みずほ信託銀行	www.mizuho-tb.co.jp
+三菱UFJ信託銀行	www.tr.mufg.jp
