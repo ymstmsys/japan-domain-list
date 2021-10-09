@@ -1,0 +1,45 @@
+農林中央金庫	www.nochubank.or.jp
+北海道信用農業協同組合連合会	www.jabank-hokkaido.or.jp
+岩手県信用農業協同組合連合会	www.jaiwate.or.jp
+茨城県信用農業協同組合連合会	www.jabank-ibaraki.or.jp
+埼玉県信用農業協同組合連合会	www.jabank-saitama.or.jp
+東京都信用農業協同組合連合会	shinren.jatokyo.or.jp
+神奈川県信用農業協同組合連合会	www.jakanagawa.gr.jp
+新潟県信用農業協同組合連合会	shinren.jabank-niigata.or.jp
+山梨県信用農業協同組合連合会	www.jabank-yamanashi.or.jp
+長野県信用農業協同組合連合会	www.naganoken-jabank.or.jp
+岐阜県信用農業協同組合連合会	www.jabankgifu.or.jp
+静岡県信用農業協同組合連合会	www.jabank-shizuoka.gr.jp
+愛知県信用農業協同組合連合会	www.jabank.aichishinren.or.jp
+三重県信用農業協同組合連合会	www.jamie.or.jp
+石川県信用農業協同組合連合会	www.is-ja.jp
+福井県信用農業協同組合連合会	www.ja-bank-fukui.or.jp
+滋賀県信用農業協同組合連合会	www.sinren.jas.or.jp
+京都府信用農業協同組合連合会	jabankkyoto.or.jp
+大阪府信用農業協同組合連合会	www.jabankosaka.or.jp
+兵庫県信用農業協同組合連合会	www.jahs.or.jp
+和歌山県信用農業協同組合連合会	www.jabank-wakayama.or.jp
+鳥取県信用農業協同組合連合会	jabank-tottori.or.jp
+広島県信用農業協同組合連合会	www.jabankhiroshima.or.jp
+山口県信用農業協同組合連合会	jabank-yamaguchi.or.jp
+徳島県信用農業協同組合連合会	www.jabank-tokushima.or.jp
+香川県信用農業協同組合連合会	www.jabank-kagawa.or.jp
+愛媛県信用農業協同組合連合会	www.jabank-ehime.or.jp
+高知県信用農業協同組合連合会	www.jabank-kochi.jp
+福岡県信用農業協同組合連合会	www.jabankfukuoka.or.jp
+佐賀県信用農業協同組合連合会	www.jabank-saga.jp
+大分県信用農業協同組合連合会	www.jabank-oita.or.jp
+宮崎県信用農業協同組合連合会	shinren.ja-miyazaki.jp
+鹿児島県信用農業協同組合連合会	www.jabank-kagoshima.or.jp
+北海道信用漁業協同組合連合会	www.marinebank.net
+#福島県信用漁業協同組合連合会
+東日本信用漁業協同組合連合会	higashinihon.jf-mbk.org
+愛知県信用漁業協同組合連合会	www.jf-aichisg.jp
+なぎさ信用漁業協同組合連合会	www.jf-nagisa.or.jp
+#鳥取県信用漁業協同組合連合会
+広島県信用漁業協同組合連合会	www.jfmbk-hiroshima.org
+#徳島県信用漁業協同組合連合会
+#香川県信用漁業協同組合連合会
+愛媛県信用漁業協同組合連合会	www.jf-ehimeshingyo.or.jp
+#高知県信用漁業協同組合連合会
+九州信用漁業協同組合連合会	jfmb-fukuoka.or.jp
