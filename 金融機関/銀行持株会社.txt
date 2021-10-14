@@ -14,7 +14,9 @@ auフィナンシャルホールディングス	www.au-financial.com
 東京きらぼしフィナンシャルグループ	www.tokyo-kiraboshifg.co.jp
 コンコルディア・フィナンシャルグループ	www.concordia-fg.jp
 三十三フィナンシャルグループ	www.33fg.co.jp
+十六フィナンシャルグループ	www.16fg.co.jp
 ほくほくフィナンシャルグループ	www.hokuhoku-fg.co.jp
+北國フィナンシャルホールディングス	www.hokkokubank.co.jp
 池田泉州ホールディングス	www.senshuikeda-hd.co.jp
 関西みらいフィナンシャルグループ	www.kmfg.co.jp
 山口フィナンシャルグループ	www.ymfg.co.jp
@@ -23,3 +25,4 @@ auフィナンシャルホールディングス	www.au-financial.com
 ふくおかフィナンシャルグループ	www.fukuoka-fg.com
 西日本フィナンシャルホールディングス	www.nnfh.co.jp
 九州フィナンシャルグループ	www.kyushu-fg.co.jp
+おきなわフィナンシャルグループ	www.okinawafg.co.jp
