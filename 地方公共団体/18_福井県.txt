@@ -1,0 +1,17 @@
+福井市	www.city.fukui.lg.jp
+敦賀市	www.city.tsuruga.lg.jp
+小浜市	www1.city.obama.fukui.jp
+大野市	www.city.ono.fukui.jp
+勝山市	www.city.katsuyama.fukui.jp
+鯖江市	www.city.sabae.fukui.jp
+あわら市	www.city.awara.lg.jp
+越前市	www.city.echizen.lg.jp
+坂井市	www.city.fukui-sakai.lg.jp
+永平寺町	www.town.eiheiji.lg.jp
+池田町	www.town.ikeda.fukui.jp
+南越前町	www.town.minamiechizen.lg.jp
+越前町	www.town.echizen.fukui.jp
+美浜町	www.town.fukui-mihama.lg.jp
+高浜町	www.town.takahama.fukui.jp
+おおい町	www.town.ohi.fukui.jp
+若狭町	www.town.fukui-wakasa.lg.jp

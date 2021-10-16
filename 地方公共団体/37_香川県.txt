@@ -1,0 +1,17 @@
+高松市	www.city.takamatsu.kagawa.jp
+丸亀市	www.city.marugame.lg.jp
+坂出市	www.city.sakaide.lg.jp
+善通寺市	www.city.zentsuji.kagawa.jp
+観音寺市	www.city.kanonji.kagawa.jp
+さぬき市	www.city.sanuki.kagawa.jp
+東かがわ市	www.higashikagawa.jp
+三豊市	www.city.mitoyo.lg.jp
+土庄町	www.town.tonosho.kagawa.jp
+小豆島町	www.town.shodoshima.lg.jp
+三木町	www.town.miki.lg.jp
+直島町	www.town.naoshima.lg.jp
+宇多津町	www.town.utazu.lg.jp
+綾川町	www.town.ayagawa.lg.jp
+琴平町	www.town.kotohira.kagawa.jp
+多度津町	www.town.tadotsu.kagawa.jp
+まんのう町	www.town.manno.lg.jp
