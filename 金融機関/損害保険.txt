@@ -10,6 +10,7 @@ au損害保険	www.au-sonpo.co.jp
 エイチ・エス損害保険	www.hs-sonpo.co.jp
 SBI損害保険	www.sbisonpo.co.jp
 カーディフ損害保険	nonlife.cardif.co.jp
+キャピタル損害保険	www.capital-sonpo.co.jp
 共栄火災海上保険	www.kyoeikasai.co.jp
 さくら損害保険	www.sakura-ins.co.jp
 ジェイアイ傷害火災保険	www.jihoken.co.jp
@@ -24,7 +25,6 @@ Chubb損害保険	www.chubb.com
 トーア再保険	www.toare.co.jp
 日新火災海上保険	www.nisshinfire.co.jp
 日本地震再保険	www.nihonjishin.co.jp
-キャピタル損害保険	www.capital-sonpo.co.jp
 ペット&ファミリー損害保険	www.petfamilyins.co.jp
 三井住友海上火災保険	www.ms-ins.com
 三井ダイレクト損害保険	www.mitsui-direct.co.jp

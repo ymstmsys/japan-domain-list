@@ -32,14 +32,11 @@
 宮崎県信用農業協同組合連合会	shinren.ja-miyazaki.jp
 鹿児島県信用農業協同組合連合会	www.jabank-kagoshima.or.jp
 北海道信用漁業協同組合連合会	www.marinebank.net
-#福島県信用漁業協同組合連合会
+福島県信用漁業協同組合連合会    www.fsgyoren.jf-net.ne.jp
 東日本信用漁業協同組合連合会	higashinihon.jf-mbk.org
-愛知県信用漁業協同組合連合会	www.jf-aichisg.jp
 なぎさ信用漁業協同組合連合会	www.jf-nagisa.or.jp
-#鳥取県信用漁業協同組合連合会
 広島県信用漁業協同組合連合会	www.jfmbk-hiroshima.org
-#徳島県信用漁業協同組合連合会
-#香川県信用漁業協同組合連合会
+徳島県信用漁業協同組合連合会    www.tokushimagyoren.or.jp
+西日本信用漁業協同組合連合会    www.jfmb-west.or.jp
 愛媛県信用漁業協同組合連合会	www.jf-ehimeshingyo.or.jp
-#高知県信用漁業協同組合連合会
 九州信用漁業協同組合連合会	jfmb-fukuoka.or.jp

@@ -5,7 +5,7 @@
 イオン・アリアンツ生命保険	www.aeon-allianz.co.jp
 SBI生命保険	www.sbilife.co.jp
 エヌエヌ生命保険	www.nnlife.co.jp
-FWD富士生命保険	www.fwdfujilife.co.jp
+FWD生命保険	www.fwdlife.co.jp
 オリックス生命保険	www.orixlife.co.jp
 カーディフ生命保険	life.cardif.co.jp
 かんぽ生命保険	www.jp-life.japanpost.jp
