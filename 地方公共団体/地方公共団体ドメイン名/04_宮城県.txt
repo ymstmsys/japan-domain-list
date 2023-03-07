@@ -10,11 +10,11 @@
 登米市	city.tome.miyagi.jp
 #栗原市	city.kurihara.miyagi.jp
 東松島市	city.higashimatsushima.miyagi.jp
-#大崎市	city.oosaki.miyagi.jp
+大崎市	city.osaki.miyagi.jp
 #富谷市	city.tomiya.miyagi.jp
 蔵王町	town.zao.miyagi.jp
 七ヶ宿町	town.shichikashuku.miyagi.jp
-#大河原町	town.oogawara.miyagi.jp
+大河原町	town.ogawara.miyagi.jp
 村田町	town.murata.miyagi.jp
 柴田町	town.shibata.miyagi.jp
 川崎町	town.kawasaki.miyagi.jp
@@ -26,7 +26,7 @@
 利府町	town.rifu.miyagi.jp
 大和町	town.taiwa.miyagi.jp
 #大郷町	town.oosato.miyagi.jp
-#大衡村	vill.oohira.miyagi.jp
+大衡村	village.ohira.miyagi.jp
 色麻町	town.shikama.miyagi.jp
 加美町	town.kami.miyagi.jp
 涌谷町	town.wakuya.miyagi.jp

@@ -9,7 +9,7 @@
 伊那市	city.ina.nagano.jp
 駒ヶ根市	city.komagane.nagano.jp
 中野市	city.nakano.nagano.jp
-#大町市	city.oomachi.nagano.jp
+大町市	city.omachi.nagano.jp
 飯山市	city.iiyama.nagano.jp
 茅野市	city.chino.nagano.jp
 塩尻市	city.shiojiri.nagano.jp

@@ -7,7 +7,7 @@
 龍ケ崎市	city.ryugasaki.ibaraki.jp
 下妻市	city.shimotsuma.ibaraki.jp
 常総市	city.joso.ibaraki.jp
-#常陸太田市	city.hitachioota.ibaraki.jp
+常陸太田市	city.hitachiota.ibaraki.jp
 高萩市	city.takahagi.ibaraki.jp
 #北茨城市	city.kitaibaraki.ibaraki.jp
 笠間市	city.kasama.ibaraki.jp
@@ -18,7 +18,7 @@
 鹿嶋市	city.kashima.ibaraki.jp
 #潮来市	city.itako.ibaraki.jp
 守谷市	city.moriya.ibaraki.jp
-#常陸大宮市	city.hitachioomiya.ibaraki.jp
+常陸大宮市	city.hitachiomiya.ibaraki.jp
 那珂市	city.naka.ibaraki.jp
 筑西市	city.chikusei.ibaraki.jp
 坂東市	city.bando.ibaraki.jp

@@ -1,7 +1,7 @@
 福井市	city.fukui.fukui.jp
 #敦賀市	city.tsuruga.fukui.jp
 小浜市	city.obama.fukui.jp
-#大野市	city.oono.fukui.jp
+大野市	city.ono.fukui.jp
 勝山市	city.katsuyama.fukui.jp
 鯖江市	city.sabae.fukui.jp
 #あわら市	city.awara.fukui.jp
@@ -13,5 +13,5 @@
 越前町	town.echizen.fukui.jp
 美浜町	town.mihama.fukui.jp
 高浜町	town.takahama.fukui.jp
-#おおい町	town.ooi.fukui.jp
+おおい町	town.ohi.fukui.jp
 若狭町	town.wakasa.fukui.jp

@@ -16,7 +16,7 @@
 #深浦町	town.fukaura.aomori.jp
 #西目屋村	vill.nishimeya.aomori.jp
 #藤崎町	town.fujisaki.aomori.jp
-#大鰐町	town.oowani.aomori.jp
+大鰐町	town.owani.aomori.jp
 #田舎館村	vill.inakadate.aomori.jp
 板柳町	town.itayanagi.aomori.jp
 #鶴田町	town.tsuruta.aomori.jp

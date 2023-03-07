@@ -4,7 +4,7 @@
 八幡浜市	city.yawatahama.ehime.jp
 新居浜市	city.niihama.ehime.jp
 西条市	city.saijo.ehime.jp
-#大洲市	city.oozu.ehime.jp
+大洲市	city.ozu.ehime.jp
 伊予市	city.iyo.ehime.jp
 四国中央市	city.shikokuchuo.ehime.jp
 西予市	city.seiyo.ehime.jp

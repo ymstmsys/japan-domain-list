@@ -1,4 +1,4 @@
-#大津市	city.ootsu.shiga.jp
+大津市	city.otsu.shiga.jp
 彦根市	city.hikone.shiga.jp
 長浜市	city.nagahama.shiga.jp
 近江八幡市	city.omihachiman.shiga.jp
@@ -12,7 +12,7 @@
 東近江市	city.higashiomi.shiga.jp
 米原市	city.maibara.shiga.jp
 #日野町	town.hino.shiga.jp
-#竜王町	town.riyuuo.shiga.jp
+竜王町	town.ryuoh.shiga.jp
 愛荘町	town.aisho.shiga.jp
 豊郷町	town.toyosato.shiga.jp
 #甲良町	town.kora.shiga.jp

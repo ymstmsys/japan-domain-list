@@ -8,7 +8,7 @@
 江東区	city.koto.tokyo.jp
 品川区	city.shinagawa.tokyo.jp
 目黒区	city.meguro.tokyo.jp
-#大田区	city.oota.tokyo.jp
+大田区	city.ota.tokyo.jp
 世田谷区	city.setagaya.tokyo.jp
 渋谷区	city.shibuya.tokyo.jp
 中野区	city.nakano.tokyo.jp
@@ -51,7 +51,7 @@
 日の出町	town.hinode.tokyo.jp
 檜原村	vill.hinohara.tokyo.jp
 奥多摩町	town.okutama.tokyo.jp
-#大島町	town.ooshima.tokyo.jp
+大島町	town.oshima.tokyo.jp
 #利島村	vill.toshima.tokyo.jp
 #新島村	vill.niijima.tokyo.jp
 #神津島村	vill.kozushima.tokyo.jp

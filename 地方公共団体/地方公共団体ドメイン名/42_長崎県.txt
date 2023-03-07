@@ -2,7 +2,7 @@
 佐世保市	city.sasebo.nagasaki.jp
 島原市	city.shimabara.nagasaki.jp
 諫早市	city.isahaya.nagasaki.jp
-#大村市	city.oomura.nagasaki.jp
+大村市	city.omura.nagasaki.jp
 平戸市	city.hirado.nagasaki.jp
 #松浦市	city.matsuura.nagasaki.jp
 対馬市	city.tsushima.nagasaki.jp

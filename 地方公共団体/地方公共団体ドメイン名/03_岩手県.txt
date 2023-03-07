@@ -1,10 +1,10 @@
 盛岡市	city.morioka.iwate.jp
 宮古市	city.miyako.iwate.jp
-#大船渡市	city.oofunato.iwate.jp
+大船渡市	city.ofunato.iwate.jp
 花巻市	city.hanamaki.iwate.jp
 北上市	city.kitakami.iwate.jp
 久慈市	city.kuji.iwate.jp
-#遠野市	city.toono.iwate.jp
+遠野市	city.tono.iwate.jp
 一関市	city.ichinoseki.iwate.jp
 陸前高田市	city.rikuzentakata.iwate.jp
 釜石市	city.kamaishi.iwate.jp
@@ -21,7 +21,7 @@
 金ケ崎町	town.kanegasaki.iwate.jp
 平泉町	town.hiraizumi.iwate.jp
 住田町	town.sumita.iwate.jp
-#大槌町	town.ootsuchi.iwate.jp
+大槌町	town.otsuchi.iwate.jp
 山田町	town.yamada.iwate.jp
 岩泉町	town.iwaizumi.iwate.jp
 田野畑村	vill.tanohata.iwate.jp

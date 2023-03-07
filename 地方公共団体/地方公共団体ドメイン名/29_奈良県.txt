@@ -1,6 +1,6 @@
 奈良市	city.nara.nara.jp
 大和高田市	city.yamatotakada.nara.jp
-#大和郡山市	city.yamatokooriyama.nara.jp
+大和郡山市	city.yamatokoriyama.nara.jp
 天理市	city.tenri.nara.jp
 橿原市	city.kashihara.nara.jp
 #桜井市	city.sakurai.nara.jp
@@ -27,7 +27,7 @@
 #広陵町	town.koriyo.nara.jp
 河合町	town.kawai.nara.jp
 吉野町	town.yoshino.nara.jp
-#大淀町	town.ooyodo.nara.jp
+大淀町	town.oyodo.nara.jp
 下市町	town.shimoichi.nara.jp
 黒滝村	vill.kurotaki.nara.jp
 天川村	vill.tenkawa.nara.jp

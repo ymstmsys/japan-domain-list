@@ -17,9 +17,9 @@
 馬路村	vill.umaji.kochi.jp
 芸西村	vill.geisei.kochi.jp
 本山町	town.motoyama.kochi.jp
-#大豊町	town.ootoyo.kochi.jp
+大豊町	town.otoyo.kochi.jp
 土佐町	town.tosa.kochi.jp
-#大川村	vill.ookawa.kochi.jp
+大川村	vill.okawa.kochi.jp
 いの町	town.ino.kochi.jp
 仁淀川町	town.niyodogawa.kochi.jp
 #中土佐町	town.nakatosa.kochi.jp
@@ -29,6 +29,6 @@
 日高村	vill.hidaka.kochi.jp
 #津野町	town.tsuno.kochi.jp
 #四万十町	town.shimanto.kochi.jp
-#大月町	town.ootsuki.kochi.jp
+大月町	town.otsuki.kochi.jp
 三原村	vill.mihara.kochi.jp
 #黒潮町	town.kuroshio.kochi.jp

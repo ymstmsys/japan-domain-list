@@ -17,7 +17,7 @@
 #南関町	town.nankan.kumamoto.jp
 #長洲町	town.nagasu.kumamoto.jp
 #和水町	town.nagomi.kumamoto.jp
-#大津町	town.oozu.kumamoto.jp
+大津町	town.ozu.kumamoto.jp
 #菊陽町	town.kikuyo.kumamoto.jp
 南小国町	town.minamioguni.kumamoto.jp
 小国町	town.oguni.kumamoto.jp

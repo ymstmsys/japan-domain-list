@@ -2,7 +2,7 @@
 高崎市	city.takasaki.gunma.jp
 桐生市	city.kiryu.gunma.jp
 #伊勢崎市	city.isesaki.gunma.jp
-#太田市	city.oota.gunma.jp
+太田市	city.ota.gunma.jp
 沼田市	city.numata.gunma.jp
 館林市	city.tatebayashi.gunma.jp
 渋川市	city.shibukawa.gunma.jp
@@ -31,5 +31,5 @@
 板倉町	town.itakura.gunma.jp
 明和町	town.meiwa.gunma.jp
 千代田町	town.chiyoda.gunma.jp
-#大泉町	town.ooizumi.gunma.jp
+大泉町	town.oizumi.gunma.jp
 邑楽町	town.ora.gunma.jp

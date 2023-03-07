@@ -5,8 +5,8 @@
 鹿沼市	city.kanuma.tochigi.jp
 #日光市	city.nikko.tochigi.jp
 小山市	city.oyama.tochigi.jp
-#真岡市	city.mooka.tochigi.jp
-#大田原市	city.ootawara.tochigi.jp
+真岡市	city.moka.tochigi.jp
+大田原市	city.ohtawara.tochigi.jp
 矢板市	city.yaita.tochigi.jp
 #那須塩原市	city.nasushiobara.tochigi.jp
 #さくら市	city.sakura.tochigi.jp

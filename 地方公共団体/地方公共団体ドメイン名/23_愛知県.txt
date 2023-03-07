@@ -12,7 +12,7 @@
 豊田市	city.toyota.aichi.jp
 安城市	city.anjo.aichi.jp
 西尾市	city.nishio.aichi.jp
-#蒲郡市	city.gamagoori.aichi.jp
+蒲郡市	city.gamagori.aichi.jp
 犬山市	city.inuyama.aichi.jp
 常滑市	city.tokoname.aichi.jp
 江南市	city.konan.aichi.jp
@@ -20,7 +20,7 @@
 稲沢市	city.inazawa.aichi.jp
 新城市	city.shinshiro.aichi.jp
 東海市	city.tokai.aichi.jp
-#大府市	city.oobu.aichi.jp
+大府市	city.obu.aichi.jp
 知多市	city.chita.aichi.jp
 知立市	city.chiryu.aichi.jp
 #尾張旭市	city.owariasahi.aichi.jp
@@ -38,9 +38,9 @@
 #長久手市	city.nagakute.aichi.jp
 #東郷町	town.togo.aichi.jp
 #豊山町	town.toyoyama.aichi.jp
-#大口町	town.ooguchi.aichi.jp
+大口町	town.oguchi.aichi.jp
 #扶桑町	town.fuso.aichi.jp
-#大治町	town.ooharu.aichi.jp
+#大治町	town.oharu.aichi.jp
 蟹江町	town.kanie.aichi.jp
 飛島村	vill.tobishima.aichi.jp
 #阿久比町	town.agui.aichi.jp

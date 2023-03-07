@@ -35,7 +35,7 @@
 福崎町	town.fukusaki.hyogo.jp
 神河町	town.kamikawa.hyogo.jp
 太子町	town.taishi.hyogo.jp
-#上郡町	town.kamigoori.hyogo.jp
+上郡町	town.kamigori.hyogo.jp
 佐用町	town.sayo.hyogo.jp
 #香美町	town.kami.hyogo.jp
 新温泉町	town.shinonsen.hyogo.jp

@@ -1,6 +1,6 @@
 福島市	city.fukushima.fukushima.jp
 会津若松市	city.aizuwakamatsu.fukushima.jp
-#郡山市	city.kooriyama.fukushima.jp
+郡山市	city.koriyama.fukushima.jp
 いわき市	city.iwaki.fukushima.jp
 白河市	city.shirakawa.fukushima.jp
 須賀川市	city.sukagawa.fukushima.jp
@@ -14,7 +14,7 @@
 桑折町	town.koori.fukushima.jp
 国見町	town.kunimi.fukushima.jp
 川俣町	town.kawamata.fukushima.jp
-#大玉村	vill.ootama.fukushima.jp
+大玉村	vill.otama.fukushima.jp
 鏡石町	town.kagamiishi.fukushima.jp
 天栄村	vill.tenei.fukushima.jp
 下郷町	town.shimogo.fukushima.jp
@@ -51,7 +51,7 @@
 #楢葉町	town.naraha.fukushima.jp
 #富岡町	town.tomioka.fukushima.jp
 #川内村	vill.kawauchi.fukushima.jp
-#大熊町	town.ookuma.fukushima.jp
+大熊町	town.okuma.fukushima.jp
 双葉町	town.futaba.fukushima.jp
 浪江町	town.namie.fukushima.jp
 #葛尾村	vill.katsurao.fukushima.jp

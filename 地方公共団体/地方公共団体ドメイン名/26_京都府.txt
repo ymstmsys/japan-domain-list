@@ -13,7 +13,7 @@
 京丹後市	city.kyotango.kyoto.jp
 南丹市	city.nantan.kyoto.jp
 #木津川市	city.kizugawa.kyoto.jp
-#大山崎町	town.ooyamazaki.kyoto.jp
+大山崎町	town.oyamazaki.kyoto.jp
 久御山町	town.kumiyama.kyoto.jp
 井手町	town.ide.kyoto.jp
 宇治田原町	town.ujitawara.kyoto.jp

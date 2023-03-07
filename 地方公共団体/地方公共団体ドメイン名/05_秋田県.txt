@@ -1,7 +1,7 @@
 秋田市	city.akita.akita.jp
 能代市	city.noshiro.akita.jp
 #横手市	city.yokote.akita.jp
-#大館市	city.oodate.akita.jp
+大館市	city.odate.akita.jp
 男鹿市	city.oga.akita.jp
 #湯沢市	city.yuzawa.akita.jp
 鹿角市	city.kazuno.akita.jp
@@ -19,7 +19,7 @@
 五城目町	town.gojome.akita.jp
 八郎潟町	town.hachirogata.akita.jp
 井川町	town.ikawa.akita.jp
-#大潟村	vill.oogata.akita.jp
+大潟村	vill.ogata.akita.jp
 美郷町	town.misato.akita.jp
 #羽後町	town.ugo.akita.jp
 東成瀬村	vill.higashinaruse.akita.jp

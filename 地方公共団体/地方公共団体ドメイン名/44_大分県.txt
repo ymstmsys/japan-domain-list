@@ -9,7 +9,7 @@
 豊後高田市	city.bungotakada.oita.jp
 #杵築市	city.kitsuki.oita.jp
 宇佐市	city.usa.oita.jp
-#豊後大野市	city.bungooono.oita.jp
+豊後大野市	city.bungoono.oita.jp
 由布市	city.yufu.oita.jp
 国東市	city.kunisaki.oita.jp
 姫島村	vill.himeshima.oita.jp

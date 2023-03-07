@@ -16,13 +16,13 @@
 河北町	town.kahoku.yamagata.jp
 西川町	town.nishikawa.yamagata.jp
 朝日町	town.asahi.yamagata.jp
-#大江町	town.ooe.yamagata.jp
-#大石田町	town.ooishida.yamagata.jp
+大江町	town.oe.yamagata.jp
+大石田町	town.oishida.yamagata.jp
 金山町	town.kaneyama.yamagata.jp
 #最上町	town.mogami.yamagata.jp
 舟形町	town.funagata.yamagata.jp
 真室川町	town.mamurogawa.yamagata.jp
-#大蔵村	vill.ookura.yamagata.jp
+大蔵村	vill.ohkura.yamagata.jp
 鮭川村	vill.sakegawa.yamagata.jp
 戸沢村	vill.tozawa.yamagata.jp
 高畠町	town.takahata.yamagata.jp

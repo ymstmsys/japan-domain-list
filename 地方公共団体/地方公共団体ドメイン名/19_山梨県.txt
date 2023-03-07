@@ -2,7 +2,7 @@
 富士吉田市	city.fujiyoshida.yamanashi.jp
 都留市	city.tsuru.yamanashi.jp
 山梨市	city.yamanashi.yamanashi.jp
-#大月市	city.ootsuki.yamanashi.jp
+大月市	city.otsuki.yamanashi.jp
 韮崎市	city.nirasaki.yamanashi.jp
 #南アルプス市	city.minamiarupusu.yamanashi.jp
 北杜市	city.hokuto.yamanashi.jp
@@ -14,7 +14,7 @@
 市川三郷町	town.ichikawamisato.yamanashi.jp
 早川町	town.hayakawa.yamanashi.jp
 身延町	town.minobu.yamanashi.jp
-#南部町	town.nambu.yamanashi.jp
+南部町	town.nanbu.yamanashi.jp
 富士川町	town.fujikawa.yamanashi.jp
 昭和町	town.showa.yamanashi.jp
 道志村	vill.doshi.yamanashi.jp

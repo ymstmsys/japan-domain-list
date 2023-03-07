@@ -5,7 +5,7 @@
 新発田市	city.shibata.niigata.jp
 小千谷市	city.ojiya.niigata.jp
 加茂市	city.kamo.niigata.jp
-#十日町市	city.tookamachi.niigata.jp
+十日町市	city.tokamachi.niigata.jp
 見附市	city.mitsuke.niigata.jp
 村上市	city.murakami.niigata.jp
 燕市	city.tsubame.niigata.jp

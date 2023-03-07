@@ -7,7 +7,7 @@
 府中市	city.fuchu.hiroshima.jp
 三次市	city.miyoshi.hiroshima.jp
 庄原市	city.shobara.hiroshima.jp
-#大竹市	city.ootake.hiroshima.jp
+大竹市	city.otake.hiroshima.jp
 東広島市	city.higashihiroshima.hiroshima.jp
 廿日市市	city.hatsukaichi.hiroshima.jp
 #安芸高田市	city.akitakata.hiroshima.jp
@@ -18,6 +18,6 @@
 坂町	town.saka.hiroshima.jp
 #安芸太田町	town.akioota.hiroshima.jp
 #北広島町	town.kitahiroshima.hiroshima.jp
-#大崎上島町	town.oosakikamijima.hiroshima.jp
+大崎上島町	town.osakikamijima.hiroshima.jp
 世羅町	town.sera.hiroshima.jp
 神石高原町	town.jinsekikogen.hiroshima.jp

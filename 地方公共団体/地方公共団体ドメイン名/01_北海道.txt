@@ -133,7 +133,7 @@
 #興部町	town.okoppe.hokkaido.jp
 西興部村	vill.nishiokoppe.hokkaido.jp
 #雄武町	town.omu.hokkaido.jp
-#大空町	town.oozora.hokkaido.jp
+大空町	town.ozora.hokkaido.jp
 #豊浦町	town.toyora.hokkaido.jp
 壮瞥町	town.sobetsu.hokkaido.jp
 白老町	town.shiraoi.hokkaido.jp

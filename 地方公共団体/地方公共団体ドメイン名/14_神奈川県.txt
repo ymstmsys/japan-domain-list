@@ -19,10 +19,10 @@
 綾瀬市	city.ayase.kanagawa.jp
 葉山町	town.hayama.kanagawa.jp
 寒川町	town.samukawa.kanagawa.jp
-#大磯町	town.ooiso.kanagawa.jp
+大磯町	town.oiso.kanagawa.jp
 二宮町	town.ninomiya.kanagawa.jp
 中井町	town.nakai.kanagawa.jp
-#大井町	town.ooi.kanagawa.jp
+大井町	town.oi.kanagawa.jp
 松田町	town.matsuda.kanagawa.jp
 山北町	town.yamakita.kanagawa.jp
 開成町	town.kaisei.kanagawa.jp
