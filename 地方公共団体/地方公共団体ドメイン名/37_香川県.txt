@@ -1,0 +1,17 @@
+高松市	city.takamatsu.kagawa.jp
+丸亀市	city.marugame.kagawa.jp
+#坂出市	city.sakaide.kagawa.jp
+#善通寺市	city.zentsuuji.kagawa.jp
+観音寺市	city.kanonji.kagawa.jp
+さぬき市	city.sanuki.kagawa.jp
+東かがわ市	city.higashikagawa.kagawa.jp
+#三豊市	city.mitoyo.kagawa.jp
+土庄町	town.tonosho.kagawa.jp
+#小豆島町	town.shodoshima.kagawa.jp
+#三木町	town.miki.kagawa.jp
+直島町	town.naoshima.kagawa.jp
+宇多津町	town.utazu.kagawa.jp
+綾川町	town.ayagawa.kagawa.jp
+琴平町	town.kotohira.kagawa.jp
+多度津町	town.tadotsu.kagawa.jp
+まんのう町	town.manno.kagawa.jp

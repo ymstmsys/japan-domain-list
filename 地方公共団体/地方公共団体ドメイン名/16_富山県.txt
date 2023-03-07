@@ -1,0 +1,15 @@
+富山市	city.toyama.toyama.jp
+高岡市	city.takaoka.toyama.jp
+魚津市	city.uozu.toyama.jp
+氷見市	city.himi.toyama.jp
+滑川市	city.namerikawa.toyama.jp
+黒部市	city.kurobe.toyama.jp
+砺波市	city.tonami.toyama.jp
+小矢部市	city.oyabe.toyama.jp
+南砺市	city.nanto.toyama.jp
+射水市	city.imizu.toyama.jp
+舟橋村	vill.funahashi.toyama.jp
+上市町	town.kamiichi.toyama.jp
+立山町	town.tateyama.toyama.jp
+入善町	town.nyuzen.toyama.jp
+朝日町	town.asahi.toyama.jp
