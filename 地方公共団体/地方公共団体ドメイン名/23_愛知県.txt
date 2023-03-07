@@ -40,7 +40,7 @@
 #豊山町	town.toyoyama.aichi.jp
 大口町	town.oguchi.aichi.jp
 #扶桑町	town.fuso.aichi.jp
-#大治町	town.oharu.aichi.jp
+大治町	town.oharu.aichi.jp
 蟹江町	town.kanie.aichi.jp
 飛島村	vill.tobishima.aichi.jp
 #阿久比町	town.agui.aichi.jp
