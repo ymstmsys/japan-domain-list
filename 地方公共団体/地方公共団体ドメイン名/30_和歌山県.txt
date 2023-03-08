@@ -4,7 +4,7 @@
 有田市	city.arida.wakayama.jp
 御坊市	city.gobo.wakayama.jp
 #田辺市	city.tanabe.wakayama.jp
-#新宮市	city.shinguu.wakayama.jp
+新宮市	city.shingu.wakayama.jp
 紀の川市	city.kinokawa.wakayama.jp
 岩出市	city.iwade.wakayama.jp
 紀美野町	town.kimino.wakayama.jp

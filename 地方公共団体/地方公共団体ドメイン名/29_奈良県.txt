@@ -22,9 +22,9 @@
 御杖村	vill.mitsue.nara.jp
 高取町	town.takatori.nara.jp
 #明日香村	vill.asuka.nara.jp
-#上牧町	town.kammaki.nara.jp
+上牧町	town.kanmaki.nara.jp
 王寺町	town.oji.nara.jp
-#広陵町	town.koriyo.nara.jp
+広陵町	town.koryo.nara.jp
 河合町	town.kawai.nara.jp
 吉野町	town.yoshino.nara.jp
 大淀町	town.oyodo.nara.jp

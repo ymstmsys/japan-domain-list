@@ -54,7 +54,7 @@
 大島町	town.oshima.tokyo.jp
 #利島村	vill.toshima.tokyo.jp
 #新島村	vill.niijima.tokyo.jp
-#神津島村	vill.kozushima.tokyo.jp
+神津島村	vill.kouzushima.tokyo.jp
 #三宅村	vill.miyake.tokyo.jp
 #御蔵島村	vill.mikurajima.tokyo.jp
 八丈町	town.hachijo.tokyo.jp

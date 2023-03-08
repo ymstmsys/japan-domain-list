@@ -31,7 +31,7 @@
 篠栗町	town.sasaguri.fukuoka.jp
 #志免町	town.shime.fukuoka.jp
 須恵町	town.sue.fukuoka.jp
-#新宮町	town.shinguu.fukuoka.jp
+新宮町	town.shingu.fukuoka.jp
 久山町	town.hisayama.fukuoka.jp
 粕屋町	town.kasuya.fukuoka.jp
 芦屋町	town.ashiya.fukuoka.jp

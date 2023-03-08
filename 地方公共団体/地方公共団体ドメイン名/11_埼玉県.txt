@@ -11,8 +11,8 @@
 #東松山市	city.higashimatsuyama.saitama.jp
 #春日部市	city.kasukabe.saitama.jp
 狭山市	city.sayama.saitama.jp
-#羽生市	city.haniyuu.saitama.jp
-#鴻巣市	city.konosu.saitama.jp
+羽生市	city.hanyu.saitama.jp
+鴻巣市	city.kounosu.saitama.jp
 深谷市	city.fukaya.saitama.jp
 #上尾市	city.ageo.saitama.jp
 草加市	city.soka.saitama.jp

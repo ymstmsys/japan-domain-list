@@ -1,7 +1,7 @@
 高松市	city.takamatsu.kagawa.jp
 丸亀市	city.marugame.kagawa.jp
 #坂出市	city.sakaide.kagawa.jp
-#善通寺市	city.zentsuuji.kagawa.jp
+善通寺市	city.zentsuji.kagawa.jp
 観音寺市	city.kanonji.kagawa.jp
 さぬき市	city.sanuki.kagawa.jp
 東かがわ市	city.higashikagawa.kagawa.jp

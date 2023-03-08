@@ -25,8 +25,8 @@
 #垂井町	town.tarui.gifu.jp
 関ケ原町	town.sekigahara.gifu.jp
 神戸町	town.godo.gifu.jp
-#輪之内町	town.wanochi.gifu.jp
-#安八町	town.ampachi.gifu.jp
+輪之内町	town.wanouchi.gifu.jp
+安八町	town.anpachi.gifu.jp
 揖斐川町	town.ibigawa.gifu.jp
 #大野町	town.oono.gifu.jp
 池田町	town.ikeda.gifu.jp

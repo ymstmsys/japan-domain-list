@@ -15,7 +15,7 @@
 上小阿仁村	vill.kamikoani.akita.jp
 藤里町	town.fujisato.akita.jp
 三種町	town.mitane.akita.jp
-#八峰町	town.happo.akita.jp
+八峰町	town.happou.akita.jp
 五城目町	town.gojome.akita.jp
 八郎潟町	town.hachirogata.akita.jp
 井川町	town.ikawa.akita.jp

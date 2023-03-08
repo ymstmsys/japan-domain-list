@@ -68,7 +68,7 @@
 坂城町	town.sakaki.nagano.jp
 小布施町	town.obuse.nagano.jp
 高山村	vill.takayama.nagano.jp
-#山ノ内町	town.yamanochi.nagano.jp
+山ノ内町	town.yamanouchi.nagano.jp
 #木島平村	vill.kijimadaira.nagano.jp
 野沢温泉村	vill.nozawaonsen.nagano.jp
 #信濃町	town.shinano.nagano.jp

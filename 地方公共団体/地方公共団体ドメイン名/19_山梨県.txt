@@ -4,7 +4,7 @@
 山梨市	city.yamanashi.yamanashi.jp
 大月市	city.otsuki.yamanashi.jp
 韮崎市	city.nirasaki.yamanashi.jp
-#南アルプス市	city.minamiarupusu.yamanashi.jp
+南アルプス市	city.minami-alps.yamanashi.jp
 北杜市	city.hokuto.yamanashi.jp
 甲斐市	city.kai.yamanashi.jp
 笛吹市	city.fuefuki.yamanashi.jp

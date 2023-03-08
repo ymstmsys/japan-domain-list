@@ -21,7 +21,7 @@
 #十島村	vill.toshima.kagoshima.jp
 #さつま町	town.satsuma.kagoshima.jp
 #長島町	town.nagashima.kagoshima.jp
-#湧水町	town.yuusui.kagoshima.jp
+湧水町	town.yusui.kagoshima.jp
 #大崎町	town.oosaki.kagoshima.jp
 #東串良町	town.higashikushira.kagoshima.jp
 錦江町	town.kinko.kagoshima.jp

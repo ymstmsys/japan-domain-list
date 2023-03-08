@@ -15,9 +15,9 @@
 上野村	vill.ueno.gunma.jp
 神流町	town.kanna.gunma.jp
 下仁田町	town.shimonita.gunma.jp
-#南牧村	vill.nammoku.gunma.jp
+南牧村	vill.nanmoku.gunma.jp
 甘楽町	town.kanra.gunma.jp
-#中之条町	town.nakanojiyo.gunma.jp
+中之条町	town.nakanojo.gunma.jp
 長野原町	town.naganohara.gunma.jp
 嬬恋村	vill.tsumagoi.gunma.jp
 草津町	town.kusatsu.gunma.jp

@@ -26,7 +26,7 @@
 利府町	town.rifu.miyagi.jp
 大和町	town.taiwa.miyagi.jp
 #大郷町	town.oosato.miyagi.jp
-大衡村	village.ohira.miyagi.jp
+#大衡村	vill.ohira.miyagi.jp
 色麻町	town.shikama.miyagi.jp
 加美町	town.kami.miyagi.jp
 涌谷町	town.wakuya.miyagi.jp

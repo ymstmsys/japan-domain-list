@@ -4,11 +4,11 @@
 玉野市	city.tamano.okayama.jp
 笠岡市	city.kasaoka.okayama.jp
 井原市	city.ibara.okayama.jp
-#総社市	city.sojiya.okayama.jp
+総社市	city.soja.okayama.jp
 高梁市	city.takahashi.okayama.jp
 新見市	city.niimi.okayama.jp
 備前市	city.bizen.okayama.jp
-#瀬戸内市	city.setochi.okayama.jp
+瀬戸内市	city.setouchi.okayama.jp
 赤磐市	city.akaiwa.okayama.jp
 真庭市	city.maniwa.okayama.jp
 #美作市	city.mimasaka.okayama.jp
@@ -17,7 +17,7 @@
 早島町	town.hayashima.okayama.jp
 里庄町	town.satosho.okayama.jp
 矢掛町	town.yakage.okayama.jp
-#新庄村	vill.shinjiyo.okayama.jp
+新庄村	vill.shinjo.okayama.jp
 鏡野町	town.kagamino.okayama.jp
 勝央町	town.shoo.okayama.jp
 奈義町	town.nagi.okayama.jp

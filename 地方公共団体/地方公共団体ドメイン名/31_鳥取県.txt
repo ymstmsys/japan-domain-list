@@ -8,11 +8,11 @@
 八頭町	town.yazu.tottori.jp
 三朝町	town.misasa.tottori.jp
 #湯梨浜町	town.yurihama.tottori.jp
-#琴浦町	town.kotora.tottori.jp
+琴浦町	town.kotoura.tottori.jp
 #北栄町	town.hokuei.tottori.jp
 #日吉津村	vill.hiezu.tottori.jp
 #大山町	town.daisen.tottori.jp
-#南部町	town.nambu.tottori.jp
+南部町	town.nanbu.tottori.jp
 #伯耆町	town.hoki.tottori.jp
 日南町	town.nichinan.tottori.jp
 日野町	town.hino.tottori.jp

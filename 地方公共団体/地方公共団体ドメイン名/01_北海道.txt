@@ -70,7 +70,7 @@
 仁木町	town.niki.hokkaido.jp
 余市町	town.yoichi.hokkaido.jp
 #赤井川村	vill.akaigawa.hokkaido.jp
-#南幌町	town.namporo.hokkaido.jp
+南幌町	town.nanporo.hokkaido.jp
 奈井江町	town.naie.hokkaido.jp
 上砂川町	town.kamisunagawa.hokkaido.jp
 #由仁町	town.yuni.hokkaido.jp
@@ -86,7 +86,7 @@
 沼田町	town.numata.hokkaido.jp
 鷹栖町	town.takasu.hokkaido.jp
 東神楽町	town.higashikagura.hokkaido.jp
-#当麻町	town.toma.hokkaido.jp
+当麻町	town.tohma.hokkaido.jp
 比布町	town.pippu.hokkaido.jp
 愛別町	town.aibetsu.hokkaido.jp
 上川町	town.kamikawa.hokkaido.jp
@@ -111,7 +111,7 @@
 遠別町	town.embetsu.hokkaido.jp
 #天塩町	town.teshio.hokkaido.jp
 猿払村	vill.sarufutsu.hokkaido.jp
-#浜頓別町	town.hamatombetsu.hokkaido.jp
+浜頓別町	town.hamatonbetsu.hokkaido.jp
 中頓別町	town.nakatombetsu.hokkaido.jp
 枝幸町	town.esashi.hokkaido.jp
 豊富町	town.toyotomi.hokkaido.jp
@@ -129,12 +129,12 @@
 佐呂間町	town.saroma.hokkaido.jp
 #遠軽町	town.engaru.hokkaido.jp
 #湧別町	town.yuubetsu.hokkaido.jp
-#滝上町	town.takinoe.hokkaido.jp
+滝上町	town.takinoue.hokkaido.jp
 #興部町	town.okoppe.hokkaido.jp
 西興部村	vill.nishiokoppe.hokkaido.jp
-#雄武町	town.omu.hokkaido.jp
+雄武町	town.oumu.hokkaido.jp
 大空町	town.ozora.hokkaido.jp
-#豊浦町	town.toyora.hokkaido.jp
+豊浦町	town.toyoura.hokkaido.jp
 壮瞥町	town.sobetsu.hokkaido.jp
 白老町	town.shiraoi.hokkaido.jp
 #厚真町	town.atsuma.hokkaido.jp
@@ -162,7 +162,7 @@
 #幕別町	town.makubetsu.hokkaido.jp
 池田町	town.ikeda.hokkaido.jp
 #豊頃町	town.toyokoro.hokkaido.jp
-#本別町	town.hombetsu.hokkaido.jp
+本別町	town.honbetsu.hokkaido.jp
 足寄町	town.ashoro.hokkaido.jp
 #陸別町	town.rikubetsu.hokkaido.jp
 #浦幌町	town.urahoro.hokkaido.jp

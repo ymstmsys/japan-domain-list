@@ -31,5 +31,5 @@
 白鷹町	town.shirataka.yamagata.jp
 飯豊町	town.iide.yamagata.jp
 三川町	town.mikawa.yamagata.jp
-#庄内町	town.shiyonai.yamagata.jp
+庄内町	town.shonai.yamagata.jp
 遊佐町	town.yuza.yamagata.jp

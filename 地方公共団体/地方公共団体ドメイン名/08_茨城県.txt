@@ -3,7 +3,7 @@
 #土浦市	city.tsuchiura.ibaraki.jp
 古河市	city.koga.ibaraki.jp
 #石岡市	city.ishioka.ibaraki.jp
-#結城市	city.yuuki.ibaraki.jp
+結城市	city.yuki.ibaraki.jp
 龍ケ崎市	city.ryugasaki.ibaraki.jp
 下妻市	city.shimotsuma.ibaraki.jp
 常総市	city.joso.ibaraki.jp

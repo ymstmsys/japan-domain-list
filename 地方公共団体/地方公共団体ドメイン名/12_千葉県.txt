@@ -39,7 +39,7 @@
 栄町	town.sakae.chiba.jp
 神崎町	town.kozaki.chiba.jp
 多古町	town.tako.chiba.jp
-#東庄町	town.tonosho.chiba.jp
+東庄町	town.tohnosho.chiba.jp
 九十九里町	town.kujukuri.chiba.jp
 #芝山町	town.shibayama.chiba.jp
 横芝光町	town.yokoshibahikari.chiba.jp
@@ -51,4 +51,4 @@
 長南町	town.chonan.chiba.jp
 大多喜町	town.otaki.chiba.jp
 御宿町	town.onjuku.chiba.jp
-#鋸南町	town.kiyonan.chiba.jp
+鋸南町	town.kyonan.chiba.jp
