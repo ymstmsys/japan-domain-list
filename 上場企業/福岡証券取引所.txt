@@ -1,0 +1,24 @@
+1771	日本乾溜工業	www.kanryu.co.jp
+1999	サイタホールディングス	www.saita-hd.co.jp
+2058	ヒガシマル	www.k-higashimaru.co.jp
+2919	マルタイ	www.marutai.co.jp
+2974	大英産業	www.daieisangyo.co.jp
+3047	ＴＲＵＣＫ－ＯＮＥ	www.truck-one.com
+3824	メディアファイブ	www.media5.co.jp
+4018	Geolocation Technology	www.geolocation.co.jp
+4250	フロンティア	all-frontier.com
+4827	ビジネス・ワンホールディングス	www.businessone-hd.com
+4995	サンケイ化学	www.sankei-chem.com
+5953	昭和鉄工	www.showa.co.jp
+6076	アメイズ 	www.az-hotels.co.jp
+7441	Ｍｉｓｕｍｉ	www.misumi.co.jp
+7533	グリーンクロス	www.green-cross.co.jp
+7894	丸東産業	www.marutosangyo.co.jp
+8398	筑邦銀行	www.chikugin.co.jp
+8540	福岡中央銀行	www.fukuokachuo-bank.co.jp
+8554	南日本銀行	nangin.jp
+8559	豊和銀行	www.howabank.co.jp
+8560	宮崎太陽銀行	www.taiyobank.co.jp
+9035	第一交通産業	www.daiichi-koutsu.co.jp
+9407	ＲＫＢ毎日ホールディングス	rkb.jp
+9942	ジョイフル	www.joyfull.co.jp
