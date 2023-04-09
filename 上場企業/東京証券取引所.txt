@@ -425,7 +425,6 @@
 2753	あみやき亭	amiyakitei.co.jp
 2754	東葛ホールディングス	www.tkhd.co.jp
 2760	東京エレクトロン　デバイス	www.teldevice.co.jp
-2761	トシン・グループ	www.toshingroup.co.jp
 2762	ＳＡＮＫＯ　ＭＡＲＫＥＴＩＮＧ　ＦＯＯＤＳ	www.sankofoods.com
 2763	エフティグループ	www.ftgroup.co.jp
 2764	ひらまつ	www.hiramatsu.co.jp
@@ -1049,7 +1048,6 @@
 3996	サインポスト	signpost.co.jp
 3997	トレードワークス	www.tworks.co.jp
 3998	すららネット	surala.jp
-3999	ナレッジスイート	ksj.co.jp
 4004	レゾナック・ホールディングス	www.resonac.com
 4005	住友化学	www.sumitomo-chem.co.jp
 4008	住友精化	www.sumitomoseika.co.jp
@@ -1373,7 +1371,6 @@
 4538	扶桑薬品工業	www.fuso-pharm.co.jp
 4539	日本ケミファ	www.chemiphar.co.jp
 4540	ツムラ	www.tsumura.co.jp
-4541	日医工	nichiiko-ir.irbridge.com
 4543	テルモ	www.terumo.co.jp
 4544	Ｈ．Ｕ．グループホールディングス	www.hugp.com
 4547	キッセイ薬品工業	www.kissei.co.jp
@@ -1502,7 +1499,7 @@
 4761	さくらケーシーエス	www.kcs.co.jp
 4762	エックスネット	www.xnet.co.jp
 4763	クリーク・アンド・リバー社	www.cri.co.jp
-4765	モーニングスター	www.morningstar.co.jp
+4765	ＳＢＩグローバルアセットマネジメント	www.sbiglobalam.co.jp
 4766	ピーエイ	www.pa-co-ltd.co.jp
 4767	テー・オー・ダブリュー	tow.co.jp
 4768	大塚商会	www.otsuka-shokai.co.jp
@@ -1620,6 +1617,7 @@
 5021	コスモエネルギーホールディングス	ceh.cosmo-oil.co.jp
 5025	マーキュリーリアルテックイノベーター	mcury.jp
 5026	トリプルアイズ	www.3-ize.jp
+5027	ＡｎｙＭｉｎｄ　Ｇｒｏｕｐ	anymindgroup.com
 5028	セカンドサイトアナリティカ	www.sxi.co.jp
 5029	サークレイス	www.circlace.com
 5031	モイ	about.moi.st
@@ -1690,6 +1688,12 @@
 5247	ＢＴＭ	www.b-tm.co.jp
 5248	テクノロジーズ	technologies-group.co.jp
 5250	プライム・ストラテジー	www.prime-strategy.co.jp
+5252	日本ナレッジ	www.know-net.co.jp
+5253	カバー	cover-corp.com
+5254	Ａｒｅｎｔ	arent.co.jp
+5255	モンスターラボホールディングス	monstar-lab.com
+5256	Ｆｕｓｉｃ	fusic.co.jp
+5257	ノバシステム	www.nova-system.com
 5261	リソルホールディングス	www.resol.jp
 5262	日本ヒューム	www.nipponhume.co.jp
 5268	旭コンクリート工業	www.asahi-concrete.co.jp
@@ -2090,7 +2094,6 @@
 6347	プラコー	www.placo.co.jp
 6349	小森コーポレーション	www.komori.com
 6351	鶴見製作所	www.tsurumipump.co.jp
-6355	住友精密工業	www.spp.co.jp
 6356	日本ギア工業	www.nippon-gear.jp
 6357	三精テクノロジーズ	www.sansei-technologies.com
 6358	酒井重工業	www.sakainet.co.jp
@@ -2540,6 +2543,8 @@
 7114	フーディソン	foodison.jp
 7115	アルファパーチェス	www.alphapurchase.co.jp
 7116	ダイワ通信	daiwawa.com
+7119	ハルメクホールディングス	www.halmek-holdings.co.jp
+7120	ＳＨＩＮＫＯ	www.kk-shinko.com
 7122	近畿車輛	www.kinkisharyo.co.jp
 7126	グローバルスタイル	www.global-style.jp
 7127	一家ホールディングス	ikka-holdings.co.jp
@@ -2557,6 +2562,7 @@
 7157	ライフネット生命保険	www.lifenet-seimei.co.jp
 7161	じもとホールディングス	www.jimoto-hd.co.jp
 7162	アストマックス	www.astmax.co.jp
+7163	住信ＳＢＩネット銀行	www.netbk.co.jp
 7164	全国保証	www.zenkoku.co.jp
 7167	めぶきフィナンシャルグループ	www.mebuki-fg.co.jp
 7172	ジャパンインベストメントアドバイザー	www.jia-ltd.com
@@ -2654,7 +2660,6 @@
 7327	第四北越フィナンシャルグループ	www.dhfg.co.jp
 7337	ひろぎんホールディングス	www.hirogin-hd.co.jp
 7338	インヴァスト	www.inv.inc
-7339	アイペットホールディングス	www.ipet-hd.com
 7342	ウェルスナビ	corp.wealthnavi.com
 7343	ブロードマインド	www.b-minded.com
 7345	アイ・パートナーズフィナンシャル	www.aipf.co.jp
@@ -2962,7 +2967,6 @@
 7887	南海プライウッド	www.nankaiplywood.co.jp
 7888	三光合成	ir.sankogosei.co.jp
 7893	プロネクサス	www.pronexus.co.jp
-7895	中央化学	www.chuo-kagaku.co.jp
 7896	セブン工業	www.seven-gr.co.jp
 7897	ホクシン	www.hokushinmdf.jp
 7898	ウッドワン	www.woodone.co.jp
@@ -3511,6 +3515,10 @@
 9340	アソインターナショナル	www.aso-inter.co.jp
 9341	ＧＥＮＯＶＡ	genova.co.jp
 9342	スマサポ	www.sumasapo.co.jp
+9343	アイビス	www.ibis.ne.jp
+9344	アクシスコンサルティング	axc-g.co.jp
+9345	ビズメイツ	www.bizmates.co.jp
+9346	ココルポート	www.cocorport.co.jp
 9351	東洋埠頭	toyofuto.co.jp
 9353	櫻島埠頭	www.sakurajima-futo.co.jp
 9355	リンコーコーポレーション	www.rinko.co.jp
@@ -3545,7 +3553,6 @@
 9418	ＵＳＥＮ－ＮＥＸＴ　ＨＯＬＤＩＮＧＳ	usen-next.co.jp
 9419	ワイヤレスゲート	www.wirelessgate.co.jp
 9421	エヌジェイホールディングス	www.njhd.jp
-9422	コネクシオ	www.conexio.co.jp
 9423	フォーバル・リアルストレート	www.realstraight.co.jp
 9424	日本通信	www.j-com.co.jp
 9425	日本テレホン	www.n-tel.co.jp
@@ -3597,7 +3604,7 @@
 9539	京葉瓦斯	www.keiyogas.co.jp
 9543	静岡ガス	www.shizuokagas.co.jp
 9551	メタウォーター	www.metawater.co.jp
-9552	Ｍ＆Ａ総合研究所	masouken.com
+9552	Ｍ＆Ａ総研ホールディングス	masouken.com
 9553	マイクロアド	www.microad.co.jp
 9554	ＡＶｉＣ	avic.jp
 9556	ＩＮＴＬＯＯＰ	www.intloop.com
@@ -3669,7 +3676,6 @@
 9722	藤田観光	www.fujita-kanko.co.jp
 9723	京都ホテル	www.kyotohotel.co.jp
 9726	ＫＮＴ－ＣＴホールディングス	www.kntcthd.co.jp
-9728	日本管財	www.nkanzai.co.jp
 9729	トーカイ	www.tokai-corp.com
 9731	白洋舎	www.hakuyosha.co.jp
 9733	ナガセ	www.toshin.com

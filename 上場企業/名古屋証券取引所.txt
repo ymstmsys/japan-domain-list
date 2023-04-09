@@ -31,6 +31,7 @@
 6025	日本ＰＣサービス	www.j-pcs.jp
 6111	旭精機工業	www.asahiseiki-mfg.co.jp
 6142	富士精工	www.c-max.co.jp
+6225	エコム	ecom-jp.co.jp
 6295	富士変速機	www.fujihensokuki.co.jp
 6439	中日本鋳工	nakachuko.co.jp
 6623	愛知電機	www.aichidenki.jp
