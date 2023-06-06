@@ -24,6 +24,7 @@
 5342	ジャニス工業	www.janis-kogyo.co.jp
 5343	ニッコー	www.nikko-company.co.jp
 5356	美濃窯業	www.mino-ceramic.co.jp
+5530	日本システムバンク	www.syb.co.jp
 5607	中央可鍛工業	www.chuokatan.co.jp
 5836	エージェント・インシュアランス・グループ	a-gent.co.jp
 5979	カネソウ	www.kaneso.co.jp
