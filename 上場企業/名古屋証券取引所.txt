@@ -39,6 +39,7 @@
 6655	東洋電機	www.toyo-elec.co.jp
 6797	名古屋電機工業	www.nagoya-denki.co.jp
 6846	中央製作所	www.chuo-seisakusho.co.jp
+7075	ＱＬＳホールディングス	qlshd.co.jp
 7076	名南Ｍ＆Ａ	www.meinan-ma.com
 7227	アスカ	www.aska.co.jp
 7485	岡谷鋼機	www.okaya.co.jp
