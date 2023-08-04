@@ -501,6 +501,7 @@
 2936	ベースフード	basefood.co.jp
 2937	サンクゼール	www.stcousair.co.jp
 2961	日本調理機	www.nitcho.co.jp
+2962	テクニスコ	www.tecnisco.com
 2970	グッドライフカンパニー	www.goodlife-c.co.jp
 2975	スター・マイカ・ホールディングス	www.starmica-holdings.co.jp
 2978	ツクルバ	tsukuruba.com
@@ -1222,7 +1223,6 @@
 4323	日本システム技術	www.jast.jp
 4324	電通グループ	www.group.dentsu.com
 4326	インテージホールディングス	www.intageholdings.co.jp
-4327	日本エス・エイチ・エル	www.shl.co.jp
 4331	テイクアンドギヴ・ニーズ	www.tgn.co.jp
 4333	東邦システムサイエンス	www.tss.co.jp
 4334	ユークス	www.yukes.co.jp
@@ -1468,7 +1468,6 @@
 4704	トレンドマイクロ	www.trendmicro.com
 4705	クリップコーポレーション	www.clip-cor.co.jp
 4707	キタック	kitac.co.jp
-4708	りらいあコミュニケーションズ	www.relia-group.com
 4709	ＩＤホールディングス	www.idnet-hd.co.jp
 4712	ＫｅｙＨｏｌｄｅｒ	www.keyholder.co.jp
 4714	リソー教育	www.riso-kyoikugroup.com
@@ -1775,6 +1774,9 @@
 5577	アイデミー	aidemy.co.jp
 5578	ＡＲアドバンストテクノロジ	ari-jp.com
 5580	プロディライト	prodelight.co.jp
+5582	グリッド	gridpredict.jp
+5585	エコナビスタ	econavista.com
+5586	Ｌａｂｏｒｏ．ＡＩ	laboro.ai
 5602	栗本鐵工所	www.kurimoto.co.jp
 5603	虹技	www.kogi.co.jp
 5609	日本鋳造	www.nipponchuzo.co.jp
@@ -1828,7 +1830,7 @@
 5851	リョービ	www.ryobi-group.co.jp
 5852	アーレスティ	www.ahresty.co.jp
 5856	エルアイイーエイチ	lieh.co.jp
-5857	アサヒホールディングス	www.asahiholdings.com
+5857	ＡＲＥホールディングス	www.asahiholdings.com
 5884	クラダシ	corp.kuradashi.jp
 5885	ジーデップ・アドバンス	info.gdep.co.jp
 5900	ダイケン	www.daiken.ne.jp
@@ -1907,7 +1909,6 @@
 6029	アトラグループ	www.artra-group.co.jp
 6030	アドベンチャー	jp.adventurekk.com
 6031	サイジニア	scigineer.com
-6032	インターワークス	interworks.jp
 6033	エクストリーム	www.e-xtreme.co.jp
 6034	ＭＲＴ	medrt.co.jp
 6035	アイ・アールジャパンホールディングス	www.irjapan.jp
@@ -2711,6 +2712,7 @@
 7389	あいちフィナンシャルグループ	www.aichi-fg.co.jp
 7399	ナンシン	www.nansin.co.jp
 7408	ジャムコ	www.jamco.co.jp
+7409	ＡｅｒｏＥｄｇｅ	aeroedge.co.jp
 7412	アトム	www.atom-corp.co.jp
 7413	創健社	www.sokensha.co.jp
 7414	小野建	www.onoken.co.jp
@@ -3423,7 +3425,7 @@
 9074	日本石油輸送	www.jot.co.jp
 9075	福山通運	corp.fukutsu.co.jp
 9076	セイノーホールディングス	www.seino.co.jp
-9078	エスライン	sline.co.jp
+9078	エスライングループ本社	sline.co.jp
 9081	神奈川中央交通	www.kanachu.co.jp
 9082	大和自動車交通	www.daiwaj.com
 9083	神姫バス	www.shinkibus.co.jp
@@ -3445,6 +3447,12 @@
 9158	シーユーシー	www.cuc-jpn.com
 9159	Ｗ　ＴＯＫＹＯ	w-tokyo.co.jp
 9160	ノバレーゼ	www.novarese.co.jp
+9161	ＩＤ＆Ｅホールディングス	www.id-and-e-hd.co.jp
+9162	ブリーチ	bleach.co.jp
+9163	ナレルグループ	nareru-group.co.jp
+9164	トライト	tryt-group.co.jp
+9165	クオルテック	www.qualtec.co.jp
+9166	ＧＥＮＤＡ	genda.jp
 9171	栗林商船	www.kuribayashishosen.com
 9173	東海汽船	www.tokaikisen.co.jp
 9193	東京汽船	www.tokyokisen.co.jp
@@ -3635,7 +3643,7 @@
 9605	東映	www.toei.co.jp
 9610	ウィルソン・ラーニング　ワールドワイド	www.wilsonlearning.com
 9612	ラックランド	www.luckland.co.jp
-9613	エヌ・ティ・ティ・データ	www.nttdata.com
+9613	ＮＴＴデータグループ	www.nttdata.com
 9616	共立メンテナンス	www.kyoritsugroup.co.jp
 9619	イチネンホールディングス	www.ichinenhd.co.jp
 9621	建設技術研究所	www.ctie.co.jp
