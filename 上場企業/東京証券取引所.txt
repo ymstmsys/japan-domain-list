@@ -561,7 +561,6 @@
 3080	ジェーソン	jason.co.jp
 3082	きちりホールディングス	www.kichiri.co.jp
 3083	シーズメン	www.csmen.co.jp
-3085	アークランドサービスホールディングス	www.arclandservice.co.jp
 3086	Ｊ．フロント　リテイリング	www.j-front-retailing.com
 3087	ドトール・日レスホールディングス	www.dnh.co.jp
 3088	マツキヨココカラ＆カンパニー	www.matsukiyococokara.com
@@ -913,7 +912,6 @@
 3777	ＦＨＴホールディングス	www.fht-hd.com
 3778	さくらインターネット	www.sakura.ad.jp
 3779	ジェイ・エスコムホールディングス	www.j-escom.co.jp
-3782	ディー・ディー・エス	www.dds.co.jp
 3784	ヴィンクス	www.vinx.co.jp
 3787	テクノマセマティカル	www.tmath.co.jp
 3788	ＧＭＯグローバルサイン・ホールディングス	www.gmogshd.com
@@ -1777,6 +1775,7 @@
 5582	グリッド	gridpredict.jp
 5585	エコナビスタ	econavista.com
 5586	Ｌａｂｏｒｏ．ＡＩ	laboro.ai
+5587	インバウンドプラットフォーム	www.inbound-platform.com
 5602	栗本鐵工所	www.kurimoto.co.jp
 5603	虹技	www.kogi.co.jp
 5609	日本鋳造	www.nipponchuzo.co.jp
@@ -2023,6 +2022,7 @@
 6217	津田駒工業	www.tsudakoma.co.jp
 6218	エンシュウ	www.enshu.co.jp
 6222	島精機製作所	www.shimaseiki.co.jp
+6224	ＪＲＣ	www.jrcnet.co.jp
 6226	守谷輸送機工業	moriya-elevator.co.jp
 6227	ＡＩメカテック	www.ai-mech.com
 6229	オーケーエム	www.okm-net.jp
@@ -2697,7 +2697,7 @@
 7371	全研本社	www.zenken.co.jp
 7372	デコルテ・ホールディングス	www.decollte.co.jp
 7373	アイドマ・ホールディングス	www.aidma-hd.jp
-7374	コンフィデンス	confidence-inc.jp
+7374	コンフィデンス・インターワークス	confidence-inc.jp
 7375	リファインバースグループ	r-inverse.com
 7376	ＢＣＣ	www.e-bcc.jp
 7377	ＤＮホールディングス	www.dcne.co.jp
@@ -3796,7 +3796,6 @@
 9959	アシードホールディングス	www.aseed-hd.co.jp
 9960	東テク	www.totech.co.jp
 9962	ミスミグループ本社	www.misumi.co.jp
-9967	堺商事	www.sakaitrading.co.jp
 9969	ショクブン	www.shokubun.co.jp
 9972	アルテック	www.altech.co.jp
 9973	小僧寿し	kozosushi.co.jp
