@@ -15,7 +15,6 @@
 7533	グリーンクロス	www.green-cross.co.jp
 7894	丸東産業	www.marutosangyo.co.jp
 8398	筑邦銀行	www.chikugin.co.jp
-8540	福岡中央銀行	www.fukuokachuo-bank.co.jp
 8554	南日本銀行	nangin.jp
 8559	豊和銀行	www.howabank.co.jp
 8560	宮崎太陽銀行	www.taiyobank.co.jp
