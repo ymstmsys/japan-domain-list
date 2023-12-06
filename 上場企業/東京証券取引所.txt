@@ -644,7 +644,6 @@
 3222	ユナイテッド・スーパーマーケット・ホールディングス	www.usmh.co.jp
 3223	エスエルディー	www.sld-inc.com
 3224	ゼネラル・オイスター	www.g-oyster.com
-3228	三栄建築設計	san-a.com
 3231	野村不動産ホールディングス	www.nomura-re-hd.co.jp
 3232	三重交通グループホールディングス	holdings.sanco.co.jp
 3236	プロパスト	www.properst.co.jp
@@ -1149,7 +1148,6 @@
 4196	ネオマーケティング	neo-m.jp
 4198	テンダ	www.tenda.co.jp
 4199	ワンダープラネット	wonderpla.net
-4200	ＨＣＳホールディングス	www.hcs-hd.co.jp
 4202	ダイセル	www.daicel.com
 4203	住友ベークライト	www.sumibe.co.jp
 4204	積水化学工業	www.sekisui.co.jp
@@ -1841,6 +1839,8 @@
 5857	ＡＲＥホールディングス	www.asahiholdings.com
 5884	クラダシ	corp.kuradashi.jp
 5885	ジーデップ・アドバンス	info.gdep.co.jp
+5888	ＤＡＩＷＡ　ＣＹＣＬＥ	www.daiwa-cycle.co.jp
+5889	Ｊａｐａｎ　Ｅｙｅｗｅａｒ　Ｈｏｌｄｉｎｇｓ	www.japan-eyewear-holdings.co.jp
 5900	ダイケン	www.daiken.ne.jp
 5901	東洋製罐グループホールディングス	www.tskg-hd.com
 5902	ホッカンホールディングス	hokkanholdings.co.jp
@@ -3484,6 +3484,7 @@
 9235	売れるネット広告社	www.ureru.co.jp
 9236	ジャパンＭ＆Ａソリューション	jpmas.jp
 9237	笑美面	emimen.co.jp
+9238	バリュークリエーション	value-creation.jp
 9240	デリバリーコンサルティング	www.deliv.co.jp
 9241	フューチャーリンクネットワーク	www.futurelink.co.jp
 9242	メディア総研	mediasouken.co.jp
