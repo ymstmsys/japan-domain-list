@@ -53,7 +53,6 @@
 8228	マルイチ産商	www.maruichi.com
 9040	大宝運輸	www.taiho-gh.com
 9170	成友興業	seiyukogyo.co.jp
-9223	ＡＳＮＯＶＡ	www.asnova.co.jp
 9357	名港海運	www.meiko-trans.co.jp
 9359	伊勢湾海運	www.isewan.co.jp
 9402	中部日本放送	hicbc.com

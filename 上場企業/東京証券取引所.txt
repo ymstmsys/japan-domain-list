@@ -1146,6 +1146,7 @@
 4193	ファブリカコミュニケーションズ	www.fabrica-com.co.jp
 4194	ビジョナル	www.visional.inc
 4196	ネオマーケティング	neo-m.jp
+4197	アスマーク	www.asmarq.co.jp
 4198	テンダ	www.tenda.co.jp
 4199	ワンダープラネット	wonderpla.net
 4202	ダイセル	www.daicel.com
@@ -1413,7 +1414,6 @@
 4617	中国塗料	www.cmp.co.jp
 4619	日本特殊塗料	www.nttoryo.co.jp
 4620	藤倉化成	www.fkkasei.co.jp
-4621	ロックペイント	www.rockpaint.co.jp
 4623	アサヒペン	www.asahipen.jp
 4624	イサム塗料	www.isamu.co.jp
 4625	アトミクス	www.atomix.co.jp
@@ -1476,7 +1476,6 @@
 4733	オービックビジネスコンサルタント	corp.obc.co.jp
 4735	京進	www.kyoshin.co.jp
 4736	日本ラッド	www.nippon-rad.co.jp
-4739	伊藤忠テクノソリューションズ	www.ctc-g.co.jp
 4743	アイティフォー	www.itfor.co.jp
 4745	東京個別指導学院	www.tkg-jp.com
 4746	東計電算	www.toukei.co.jp
@@ -1577,7 +1576,6 @@
 4957	ヤスハラケミカル	www.yschem.co.jp
 4958	長谷川香料	www.t-hasegawa.co.jp
 4960	ケミプロ化成	www.chemipro.co.jp
-4963	星光ＰＭＣ	www.seikopmc.co.jp
 4966	上村工業	www.uyemura.co.jp
 4967	小林製薬	www.kobayashi.co.jp
 4968	荒川化学工業	www.arakawachem.co.jp
@@ -1779,11 +1777,19 @@
 5590	ネットスターズ	www.netstars.co.jp
 5591	ＡＶＩＬＥＮ	corp.avilen.co.jp
 5592	くすりの窓口	kusurinomadoguchi.co.jp
+5595	ＱＰＳ研究所	i-qps.net
+5596	アウトルックコンサルティング	www.outlook.co.jp
+5597	ブルーイノベーション	www.blue-i.co.jp
+5599	Ｓ＆Ｊ	www.sandj.co.jp
 5602	栗本鐵工所	www.kurimoto.co.jp
 5603	虹技	www.kogi.co.jp
 5609	日本鋳造	www.nipponchuzo.co.jp
 5610	大和重工	www.daiwajuko.co.jp
 5612	日本鋳鉄管	www.nichu.co.jp
+5616	雨風太陽	ame-kaze-taiyo.jp
+5618	ナイル	nyle.co.jp
+5619	マーソ	www.mrso.co.jp
+5621	ヒューマンテクノロジーズ	www.h-t.co.jp
 5631	日本製鋼所	www.jsw.co.jp
 5632	三菱製鋼	www.mitsubishisteel.co.jp
 5644	メタルアート	www.metalart.co.jp
@@ -1837,10 +1843,16 @@
 5852	アーレスティ	www.ahresty.co.jp
 5856	エルアイイーエイチ	lieh.co.jp
 5857	ＡＲＥホールディングス	www.asahiholdings.com
+5867	エスネットワークス	esnet.co.jp
+5868	ロココ	www.rococo.co.jp
+5869	早稲田学習研究会	www.wasedazemi.com
+5870	ナルネットコミュニケーションズ	www.nal-mt.co.jp
 5884	クラダシ	corp.kuradashi.jp
 5885	ジーデップ・アドバンス	info.gdep.co.jp
 5888	ＤＡＩＷＡ　ＣＹＣＬＥ	www.daiwa-cycle.co.jp
 5889	Ｊａｐａｎ　Ｅｙｅｗｅａｒ　Ｈｏｌｄｉｎｇｓ	www.japan-eyewear-holdings.co.jp
+5891	魁力屋	corp.kairikiya.co.jp
+5892	ｙｕｔｏｒｉ	yutori.tokyo
 5900	ダイケン	www.daiken.ne.jp
 5901	東洋製罐グループホールディングス	www.tskg-hd.com
 5902	ホッカンホールディングス	hokkanholdings.co.jp
@@ -2211,7 +2223,6 @@
 6497	ハマイ	www.hamai-net.com
 6498	キッツ	www.kitz.co.jp
 6501	日立製作所	www.hitachi.co.jp
-6502	東芝	www.global.toshiba
 6503	三菱電機	www.mitsubishielectric.co.jp
 6504	富士電機	www.fujielectric.co.jp
 6505	東洋電機製造	www.toyodenki.co.jp
@@ -2312,7 +2323,7 @@
 6658	シライ電子工業	www.shiraidenshi.co.jp
 6659	メディアリンクス	jp.medialinks.com
 6662	ユビテック	www.ubiteq.co.jp
-6663	太洋工業	taiyoukiso.co.jp
+6663	太洋テクノレックス	www.taiyo-tx.com
 6664	オプトエレクトロニクス	www.opto.co.jp
 6666	リバーエレテック	www.river-ele.co.jp
 6668	アドテック　プラズマ　テクノロジー	www.adtec-rf.co.jp
@@ -2993,7 +3004,6 @@
 7899	ＭＩＣＳ化学	www.c-mics.com
 7901	マツモト	www.matsumoto-inc.co.jp
 7902	ソノコム	www.sonocom.co.jp
-7905	大建工業	www.daiken.jp
 7906	ヨネックス	www.yonex.co.jp
 7908	きもと	www.kimoto.co.jp
 7911	ＴＯＰＰＡＮホールディングス	www.toppan.co.jp
@@ -3476,6 +3486,7 @@
 9219	ギックス	www.gixo.jp
 9220	エフビー介護サービス	fb-kaigo.co.jp
 9221	フルハシＥＰＯ	www.fuluhashi.co.jp
+9223	ＡＳＮＯＶＡ	www.asnova.co.jp
 9225	ブリッジコンサルティンググループ	bridge-group.co.jp
 9227	マイクロ波化学	mwcc.jp
 9229	サンウェルズ	sunwels.jp
