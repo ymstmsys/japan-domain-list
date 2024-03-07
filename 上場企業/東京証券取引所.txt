@@ -1,15 +1,19 @@
 1301	極洋	www.kyokuyo.co.jp
+130A	Ｖｅｒｉｔａｓ　Ｉｎ　Ｓｉｌｉｃｏ	www.veritasinsilico.com
 1332	ニッスイ	www.nissui.co.jp
 1333	マルハニチロ	www.maruha-nichiro.co.jp
+135A	ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ	vrain.co.jp
 1375	雪国まいたけ	www.maitake.co.jp
 1376	カネコ種苗	www.kanekoseeds.jp
 1377	サカタのタネ	corporate.sakataseed.co.jp
 1379	ホクト	www.hokto-kinoko.co.jp
+137A	Ｃｏｃｏｌｉｖｅ	cocolive.co.jp
 1380	秋川牧園	www.akikawabokuen.com
 1381	アクシーズ	www.axyz-grp.co.jp/
 1382	ホーブ	hob.co.jp
 1383	ベルグアース	bergearth.co.jp
 1384	ホクリヨウ	www.hokuryo.co.jp
+138A	光フードサービス	hikari-food-service.jp
 1401	エムビーエス	www.homemakeup.co.jp
 1407	ウエストホールディングス	www.west-gr.co.jp
 1414	ショーボンドホールディングス	www.sho-bondhd.jp
@@ -301,7 +305,7 @@
 2393	日本ケアサプライ	www.caresupply.co.jp
 2395	新日本科学	www.snbl.co.jp
 2397	ＤＮＡチップ研究所	www.dna-chip.co.jp
-2404	鉄人化計画	www.tetsujin.ne.jp
+2404	鉄人化ホールディングス	www.tetsujin.ne.jp
 2408	ＫＧ情報	www.kg-net.co.jp
 2410	キャリアデザインセンター	cdc.type.jp
 2411	ゲンダイエージェンシー	www.gendai-a.co.jp
@@ -858,7 +862,6 @@
 3674	オークファン	aucfan.co.jp
 3675	クロス・マーケティンググループ	www.cm-group.co.jp
 3676	デジタルハーツホールディングス	www.digitalhearts-hd.com
-3677	システム情報	www.sysj.co.jp
 3678	メディアドゥ	mediado.jp
 3679	じげん	zigexn.co.jp
 3680	ホットリンク	www.hottolink.co.jp
@@ -907,7 +910,6 @@
 3777	ＦＨＴホールディングス	www.fht-hd.com
 3778	さくらインターネット	www.sakura.ad.jp
 3779	ジェイ・エスコムホールディングス	www.j-escom.co.jp
-3784	ヴィンクス	www.vinx.co.jp
 3787	テクノマセマティカル	www.tmath.co.jp
 3788	ＧＭＯグローバルサイン・ホールディングス	www.gmogshd.com
 3791	ＩＧポート	www.igport.co.jp
@@ -943,7 +945,6 @@
 3848	データ・アプリケーション	www.dal.co.jp
 3850	エヌ・ティ・ティ・データ・イントラマート	www.intra-mart.jp
 3851	日本一ソフトウェア	nippon1.co.jp
-3852	サイバーコム	www.cy-com.co.jp
 3853	アステリア	jp.asteria.com
 3854	アイル	www.ill.co.jp
 3856	Ａｂａｌａｎｃｅ	www.abalance.jp
@@ -1208,7 +1209,6 @@
 4307	野村総合研究所	www.nri.com
 4308	Ｊストリーム	www.stream.co.jp
 4310	ドリームインキュベータ	www.dreamincubator.co.jp
-4312	サイバネットシステム	www.cybernet.co.jp
 4316	ビーマップ	www.bemap.co.jp
 4317	レイ	ray.co.jp
 4318	クイック	919.jp
@@ -1845,6 +1845,7 @@
 5868	ロココ	www.rococo.co.jp
 5869	早稲田学習研究会	www.wasedazemi.com
 5870	ナルネットコミュニケーションズ	www.nal-mt.co.jp
+5871	ＳＯＬＩＺＥ	www.solize.com
 5884	クラダシ	corp.kuradashi.jp
 5885	ジーデップ・アドバンス	info.gdep.co.jp
 5888	ＤＡＩＷＡ　ＣＹＣＬＥ	www.daiwa-cycle.co.jp
@@ -2020,7 +2021,6 @@
 6184	鎌倉新書	www.kamakura-net.co.jp
 6185	ＳＭＮ	www.so-netmedia.jp
 6186	一蔵	www.ichikura.jp
-6188	富士ソフトサービスビューロ	www.fsisb.co.jp
 6189	グローバルキッズＣＯＭＰＡＮＹ	www.gkids.jp
 6190	フェニックスバイオ	phoenixbio.co.jp
 6191	エアトリ	www.airtrip.co.jp
@@ -2290,7 +2290,6 @@
 6615	ユー・エム・シー・エレクトロニクス	www.umc.co.jp
 6616	トレックス・セミコンダクター	www.torex.co.jp
 6617	東光高岳	www.tktk.co.jp
-6618	大泉製作所	www.ohizumi-mfg.jp
 6619	ダブル・スコープ	w-scope.co.jp
 6620	宮越ホールディングス	www.miyakoshi-holdings.com
 6622	ダイヘン	www.daihen.co.jp
@@ -3590,7 +3589,7 @@
 9421	エヌジェイホールディングス	www.njhd.jp
 9423	フォーバル・リアルストレート	www.realstraight.co.jp
 9424	日本通信	www.j-com.co.jp
-9425	日本テレホン	www.n-tel.co.jp
+9425	ＲｅＹｕｕ　Ｊａｐａｎ	www.reyuu-japan.com
 9428	クロップス	www.crops.ne.jp
 9432	日本電信電話	group.ntt
 9433	ＫＤＤＩ	www.kddi.com
@@ -3650,7 +3649,7 @@
 9562	ビジネスコーチ	www.businesscoach.co.jp
 9563	Ａｔｌａｓ　Ｔｅｃｈｎｏｌｏｇｉｅｓ	atlstech.com
 9564	ＦＣＥ	fce-hd.co.jp
-9565	ウェルプレイド・ライゼスト	wellplayed-rizest.jp
+9565	ＧＬＯＥ	gloe.jp
 9600	アイネット	www.inet.co.jp
 9601	松竹	www.shochiku.co.jp
 9602	東宝	www.toho.co.jp
