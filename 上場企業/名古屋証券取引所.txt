@@ -23,7 +23,6 @@
 5075	アップコン	www.upcon.co.jp
 5342	ジャニス工業	www.janis-kogyo.co.jp
 5343	ニッコー	www.nikko-company.co.jp
-5356	美濃窯業	www.mino-ceramic.co.jp
 5530	日本システムバンク	www.syb.co.jp
 5607	中央可鍛工業	www.chuokatan.co.jp
 5836	エージェント・インシュアランス・グループ	a-gent.co.jp
@@ -37,7 +36,6 @@
 6439	中日本鋳工	nakachuko.co.jp
 6623	愛知電機	www.aichidenki.jp
 6655	東洋電機	www.toyo-elec.co.jp
-6797	名古屋電機工業	www.nagoya-denki.co.jp
 6846	中央製作所	www.chuo-seisakusho.co.jp
 7075	ＱＬＳホールディングス	qlshd.co.jp
 7076	名南Ｍ＆Ａ	www.meinan-ma.com
