@@ -10,6 +10,8 @@ au損害保険	www.au-sonpo.co.jp
 エイチ・エス損害保険	www.hs-sonpo.co.jp
 SBI損害保険	www.sbisonpo.co.jp
 カーディフ損害保険	nonlife.cardif.co.jp
+ＮＴＴドコモ損害保険	www.docomo-sompo.com
+ヤマップネイチャランス損害保険	yamap-naturance.co.jp
 キャピタル損害保険	www.capital-sonpo.co.jp
 共栄火災海上保険	www.kyoeikasai.co.jp
 さくら損害保険	www.sakura-ins.co.jp
