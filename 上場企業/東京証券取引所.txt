@@ -29,7 +29,7 @@
 1433	ベステラ	www.besterra.co.jp
 1434	ＪＥＳＣＯホールディングス	www.jesco.co.jp
 1435	ｒｏｂｏｔ　ｈｏｍｅ	corp.robothome.jp
-1436	フィット	www.fit-group.jp
+1436	ＧｒｅｅｎＥｎｅｒｇｙ　＆　Ｃｏｍｐａｎｙ	green-energy.co.jp
 1438	岐阜造園	www.gifu-zohen.co.jp
 1439	安江工務店	www.yasue.co.jp
 143A	イシン	ishin1853.co.jp
@@ -125,6 +125,7 @@
 1844	大盛工業	www.ohmori.co.jp
 1847	イチケン	www.ichiken.co.jp
 1848	富士ピー・エス	www.fujips.co.jp
+184A	学びエイド	corp.manabi-aid.jp
 1850	南海辰村建設	www.nantatsu.co.jp
 1852	淺沼組	www.asanuma.co.jp
 1853	森組	www.morigumi.co.jp
@@ -329,7 +330,6 @@
 2408	ＫＧ情報	www.kg-net.co.jp
 2410	キャリアデザインセンター	cdc.type.jp
 2411	ゲンダイエージェンシー	www.gendai-a.co.jp
-2412	ベネフィット・ワン	corp.benefit-one.co.jp
 2413	エムスリー	corporate.m3.com
 2415	ヒューマンホールディングス	www.athuman.com
 2418	ツカダ・グローバルホールディング	www.tsukada-global.holdings
@@ -650,7 +650,7 @@
 3190	ホットマン	www.yg-hotman.com
 3191	ジョイフル本田	www.joyfulhonda.com
 3192	白鳩	www.shirohato.co.jp
-3193	鳥貴族ホールディングス	torikizoku-holdings.co.jp
+3193	エターナルホスピタリティグループ	eternal-hospitality.co.jp
 3195	ジェネレーションパス	www.genepa.com
 3196	ホットランド	www.hotland.co.jp
 3197	すかいらーくホールディングス	corp.skylark.co.jp
@@ -671,7 +671,6 @@
 3238	セントラル総合開発	central-gd.co.jp
 3241	ウィル	www.wills.co.jp
 3242	アーバネットコーポレーション	www.urbanet.jp
-3244	サムティ	www.samty.co.jp
 3245	ディア・ライフ	www.dear-life.co.jp
 3246	コーセーアールイー	www.kose-re.jp
 3248	アールエイジ	www.early-age.co.jp
@@ -893,7 +892,7 @@
 3691	デジタルプラス	digital-plus.co.jp
 3692	ＦＦＲＩセキュリティ	www.ffri.jp
 3694	オプティム	www.optim.co.jp
-3695	ＧＭＯリサーチ	gmo-research.jp
+3695	ＧＭＯリサーチ＆ＡＩ	gmo-research.ai
 3696	セレス	ceres-inc.jp
 3697	ＳＨＩＦＴ	www.shiftinc.jp
 3698	ＣＲＩ・ミドルウェア	www.cri-mw.co.jp
@@ -1646,7 +1645,6 @@
 5122	オカモト	www.okamoto-inc.jp
 5125	ファインズ	e-tenki.co.jp
 5126	ポーターズ	www.porters.jp
-5127	グッピーズ	www.guppy.co.jp
 5129	ＦＩＸＥＲ	www.fixer.co.jp
 5131	リンカーズ	corp.linkers.net
 5132	ｐｌｕｓｚｅｒｏ	plus-zero.co.jp
@@ -3739,7 +3737,6 @@
 9778	昴	www.subaru-net.com
 9780	ハリマビステム	www.bstem.co.jp
 9782	ディーエムエス	www.dmsjp.co.jp
-9783	ベネッセホールディングス	www.benesse-hd.co.jp
 9787	イオンディライト	www.aeondelight.co.jp
 9788	ナック	www.nacoo.com
 9790	福井コンピュータホールディングス	hd.fukuicompu.co.jp
@@ -3817,7 +3814,6 @@
 9973	小僧寿し	kozosushi.co.jp
 9974	ベルク	www.belc.jp
 9976	セキチュー	www.sekichu.co.jp
-9977	アオキスーパー	aokisuper.co.jp
 9978	文教堂グループホールディングス	www.bunkyodo.co.jp
 9979	大庄	www.daisyo.co.jp
 9980	ＭＲＫホールディングス	www.mrkholdings.co.jp
@@ -3831,6 +3827,5 @@
 9991	ジェコス	www.gecoss.co.jp
 9993	ヤマザワ	yamazawa.co.jp
 9994	やまや	www.yamaya.jp
-9995	グローセル	www.glosel.co.jp
 9996	サトー商会	www.satoh-web.co.jp
 9997	ベルーナ	www.belluna.co.jp
