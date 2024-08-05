@@ -18,7 +18,6 @@
 3808	オウケイウェイヴ	okwave.co.jp
 3830	ギガプライズ	www.gigaprize.co.jp
 3952	中央紙器工業	www.mcpack.co.jp
-4349	テスク	www.kktisc.co.jp
 5075	アップコン	www.upcon.co.jp
 5342	ジャニス工業	www.janis-kogyo.co.jp
 5343	ニッコー	www.nikko-company.co.jp
