@@ -29,7 +29,7 @@
 1433	ベステラ	www.besterra.co.jp
 1434	ＪＥＳＣＯホールディングス	www.jesco.co.jp
 1435	ｒｏｂｏｔ　ｈｏｍｅ	corp.robothome.jp
-1436	ＧｒｅｅｎＥｎｅｒｇｙ　＆　Ｃｏｍｐａｎｙ	green-energy.co.jp
+1436	グリーンエナジー＆カンパニー	green-energy.co.jp
 1438	岐阜造園	www.gifu-zohen.co.jp
 1439	安江工務店	www.yasue.co.jp
 143A	イシン	ishin1853.co.jp
@@ -292,6 +292,7 @@
 2282	日本ハム	www.nipponham.co.jp
 2286	林兼産業	www.hayashikane.co.jp
 2288	丸大食品	www.marudai.jp
+228A	オプロ	corp.opro.net
 2291	福留ハム	www.fukutome.com
 2292	Ｓ　Ｆｏｏｄｓ	www.sfoods.co.jp
 2293	滝沢ハム	www.takizawaham.co.jp
@@ -1545,7 +1546,7 @@
 4828	ビジネスエンジニアリング	www.b-en-g.co.jp
 4829	日本エンタープライズ	www.nihon-e.co.jp
 4832	ＪＦＥシステムズ	www.jfe-systems.com
-4833	Ｓｕｃｃｅｓｓ　Ｈｏｌｄｅｒｓ	success-holders.inc
+4833	Ｄｅｆ　ｃｏｎｓｕｌｔｉｎｇ	def-consulting.co.jp
 4838	スペースシャワーＳＫＩＹＡＫＩホールディングス	sssk-hd.com
 4839	ＷＯＷＯＷ	corporate.wowow.co.jp
 4840	トライアイズ	www.triis.co.jp
@@ -2358,7 +2359,6 @@
 6701	日本電気	jpn.nec.com
 6702	富士通	www.fujitsu.com
 6703	沖電気工業	www.oki.com
-6704	岩崎通信機	www.iwatsu.co.jp
 6706	電気興業	denkikogyo.co.jp
 6707	サンケン電気	www.sanken-ele.co.jp
 6715	ナカヨ	www.nyc.co.jp
@@ -2859,7 +2859,7 @@
 7611	ハイデイ日高	www.hiday.co.jp
 7613	シークス	www.siix.co.jp
 7614	オーエムツーネットワーク	www.om2.co.jp
-7615	ＹＵ－ＷＡ　Ｃｒｅａｔｉｏｎ　Ｈｏｌｄｉｎｇｓ	www.yuwa-holdings.co.jp
+7615	京都きもの友禅ホールディングス	www.kyotokimonoyuzenholdings.co.jp
 7616	コロワイド	www.colowide.co.jp
 7619	田中商事	www.tanakashoji.co.jp
 7621	うかい	www.ukai.co.jp
@@ -2881,7 +2881,6 @@
 7670	オーウエル	www.owell.co.jp
 7673	ダイコー通産	www.daiko-tsusan.co.jp
 7674	ＮＡＴＴＹ　ＳＷＡＮＫＹホールディングス	nattyswanky.com
-7676	グッドスピード	goodspeed-group.co.jp
 7677	ヤシマキザイ	www.yashima-co.co.jp
 7678	あさくま	www.asakuma.co.jp
 7679	薬王堂ホールディングス	www.yakuodo-hd.co.jp
@@ -3760,7 +3759,7 @@
 9823	マミーマート	mammymart.co.jp
 9824	泉州電業	www.senden.co.jp
 9827	リリカラ	www.lilycolor.co.jp
-9828	元気寿司	www.genkisushi.co.jp
+9828	Ｇｅｎｋｉ　Ｇｌｏｂａｌ　Ｄｉｎｉｎｇ　Ｃｏｎｃｅｐｔｓ	www.genkisushi.co.jp
 9830	トラスコ中山	www.trusco.co.jp
 9831	ヤマダホールディングス	www.yamada-holdings.jp
 9832	オートバックスセブン	www.autobacs.co.jp
