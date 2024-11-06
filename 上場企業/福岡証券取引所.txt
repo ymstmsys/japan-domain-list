@@ -3,6 +3,7 @@
 2058	ヒガシマル	www.k-higashimaru.co.jp
 231A	Ｃｒｏｓｓ Ｅホールディングス	cross-e-hd.co.jp
 242A	リプライオリティ	www.repriority.co.jp/
+272A	グリーンクロスホールディングス	green-cross-hd.co.jp
 2919	マルタイ	www.marutai.co.jp
 2974	大英産業	www.daieisangyo.co.jp
 3047	ＴＲＵＣＫ－ＯＮＥ	www.truck-one.com
@@ -14,7 +15,6 @@
 5953	昭和鉄工	www.showa.co.jp
 6076	アメイズ	www.az-hotels.co.jp
 7441	Ｍｉｓｕｍｉ	www.misumi.co.jp
-7533	グリーンクロス	www.green-cross.co.jp
 7894	丸東産業	www.marutosangyo.co.jp
 8398	筑邦銀行	www.chikugin.co.jp
 8554	南日本銀行	nangin.jp

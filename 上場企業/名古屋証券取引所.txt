@@ -4,6 +4,7 @@
 1892	徳倉建設	www.tokura.co.jp
 2467	バルクホールディングス	www.vlcholdings.com
 2551	マルサンアイ	www.marusanai.co.jp
+259A	ケイ・ウノ	www.k-uno.co.jp
 2902	太陽化学	www.taiyokagaku.com
 3032	ゴルフ・ドゥ	www.golfdo.co.jp
 3066	ＪＢイレブン	www.jb11.co.jp
@@ -30,7 +31,6 @@
 6111	旭精機工業	www.asahiseiki-mfg.co.jp
 6142	富士精工	www.c-max.co.jp
 6225	エコム	ecom-jp.co.jp
-6295	富士変速機	www.fujihensokuki.co.jp
 6439	中日本鋳工	nakachuko.co.jp
 6623	愛知電機	www.aichidenki.jp
 6655	東洋電機	www.toyo-elec.co.jp
