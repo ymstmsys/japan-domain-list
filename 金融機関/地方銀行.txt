@@ -1,6 +1,5 @@
 北海道銀行	www.hokkaidobank.co.jp
-青森銀行	www.a-bank.jp
-みちのく銀行	www.michinokubank.co.jp
+青森みちのく銀行	www.am-bk.co.jp
 岩手銀行	www.iwatebank.co.jp
 東北銀行	www.tohoku-bank.co.jp
 七十七銀行	www.77bank.co.jp

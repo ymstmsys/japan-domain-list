@@ -13,9 +13,8 @@
 大光銀行	www.taikobank.jp
 長野銀行	www.naganobank.co.jp
 静岡中央銀行	www.shizuokachuo-bank.co.jp
-愛知銀行	www.aichibank.co.jp
+あいち銀行	www.aichibank.co.jp
 名古屋銀行	www.meigin.com
-中京銀行	www.chukyo-bank.co.jp
 富山第一銀行	www.first-bank.co.jp
 福邦銀行	www.fukuho.co.jp
 みなと銀行	www.minatobk.co.jp
