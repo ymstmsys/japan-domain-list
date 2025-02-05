@@ -86,7 +86,6 @@
 176A	レジル	rezil.co.jp
 1770	藤田エンジニアリング	www.fujita-eng.co.jp
 1773	ワイ・ティー・エル・コーポレーション・バーハッド	www.ytl.com
-1775	富士古河Ｅ＆Ｃ	www.ffec.co.jp
 1776	三井住建道路	www.smrc.co.jp
 177A	コージンバイオ	kohjin-bio.jp
 1780	ヤマウラ	yamaura.co.jp
@@ -136,7 +135,6 @@
 1873	日本ハウスホールディングス	www.nihonhouse-hd.co.jp
 1878	大東建託	www.kentaku.co.jp
 1879	新日本建設	www.shinnihon-c.co.jp
-187A	サムティホールディングス	www.samty-holdings.com
 1882	東亜道路工業	www.toadoro.co.jp
 1884	日本道路	www.nipponroad.co.jp
 1885	東亜建設工業	www.toa-const.co.jp
@@ -455,7 +453,6 @@
 2702	日本マクドナルドホールディングス	www.mcd-holdings.co.jp
 2705	大戸屋ホールディングス	www.ootoya.jp
 2708	久世	www.kuze.co.jp
-2715	エレマテック	www.elematec.com
 2721	ジェイホールディングス	jholdings.co.jp
 2722	ＩＫホールディングス	www.ai-kei.co.jp
 2726	パルグループホールディングス	www.palgroup.holdings
@@ -676,7 +673,7 @@
 3161	アゼアス	www.azearth.co.jp
 3166	ＯＣＨＩホールディングス	www.ochiholdings.co.jp
 3167	ＴＯＫＡＩホールディングス	www.tokaiholdings.co.jp
-3168	黒谷	www.kurotani.co.jp
+3168	ＭＥＲＦ	www.kurotani.co.jp
 3169	ミサワ	www.unico-fan.co.jp
 3172	ティーライフ	www.tealifeir.com
 3173	Ｃｏｍｉｎｉｘ	www.cominix.jp
@@ -729,7 +726,6 @@
 3266	ファンドクリエーショングループ	www.fc-group.co.jp
 3267	フィル・カンパニー	philcompany.jp
 3271	ＴＨＥグローバル社	www.the-g.co.jp
-3275	ハウスコム	www.housecom.co.jp
 3276	ＪＰＭＣ	www.jpmc.jp
 3277	サンセイランディック	www.sansei-l.co.jp
 3280	エストラスト	www.strust.co.jp
@@ -892,7 +888,7 @@
 3626	ＴＩＳ	www.tis.co.jp
 3627	テクミラホールディングス	www.jns.inc
 3628	データホライゾン	www.dhorizon.co.jp
-3632	グリー	corp.gree.net
+3632	グリーホールディングス	hd.gree.net
 3633	ＧＭＯペパボ	pepabo.com
 3634	ソケッツ	www.sockets.co.jp
 3635	コーエーテクモホールディングス	www.koeitecmo.co.jp
@@ -1262,7 +1258,6 @@
 4288	アズジェント	www.asgent.co.jp
 4290	プレステージ・インターナショナル	www.prestigein.com
 4293	セプテーニ・ホールディングス	www.septeni-holdings.co.jp
-4295	フェイス	www.faith.co.jp
 4298	プロトコーポレーション	www.proto-g.co.jp
 4299	ハイマックス	www.himacs.jp
 4301	アミューズ	www.amuse.co.jp
@@ -1306,7 +1301,7 @@
 4373	シンプレクス・ホールディングス	www.simplex.holdings
 4374	ＲＯＢＯＴ　ＰＡＹＭＥＮＴ	www.robotpayment.co.jp
 4375	セーフィー	safie.co.jp
-4376	くふうカンパニー	kufu.company
+4376	くふうカンパニーホールディングス	kufu.co.jp
 4377	ワンキャリア	onecareer.co.jp
 4378	ＣＩＮＣ	www.cinc-j.co.jp
 4379	Ｐｈｏｔｏｓｙｎｔｈ	photosynth.co.jp
@@ -1325,7 +1320,7 @@
 4393	バンク・オブ・イノベーション	boi.jp
 4394	エクスモーション	www.corporate.exmotion.co.jp
 4395	アクリート	www.accrete-inc.com
-4396	システムサポート	www.sts-inc.co.jp
+4396	システムサポートホールディングス	www.sts-hd.co.jp
 4397	チームスピリット	corp.teamspirit.com
 4398	ブロードバンドセキュリティ	www.bbsec.co.jp
 4401	ＡＤＥＫＡ	www.adeka.co.jp
@@ -1388,7 +1383,6 @@
 4482	ウィルズ	www.wills-net.co.jp
 4483	ＪＭＤＣ	www.jmdc.co.jp
 4484	ランサーズ	www.lancers.co.jp
-4485	ＪＴＯＷＥＲ	www.jtower.co.jp
 4486	ユナイトアンドグロウ	www.ug-inc.net
 4487	スペースマーケット	spacemarket.co.jp
 4488	ＡＩ　ｉｎｓｉｄｅ	inside.ai
@@ -1552,7 +1546,7 @@
 4776	サイボウズ	cybozu.co.jp
 4777	ガーラ	www.gala.jp
 4783	ＮＣＤ	www.ncd.co.jp
-4784	ＧＭＯアドパートナーズ	www.gmo-ap.jp
+4784	ＧＭＯインターネット	internet.gmo
 4792	山田コンサルティンググループ	www.yamada-cg.co.jp
 4800	オリコン	www.oricon.jp
 4801	セントラルスポーツ	company.central.co.jp
@@ -1618,7 +1612,6 @@
 4936	アクシージア	axxzia.co.jp
 4937	Ｗａｑｏｏ	waqoo.jp
 4951	エステー	www.st-c.co.jp
-4955	アグロ　カネショウ	www.agrokanesho.co.jp
 4956	コニシ	www.bond.co.jp
 4957	ヤスハラケミカル	www.yschem.co.jp
 4958	長谷川香料	www.t-hasegawa.co.jp
@@ -2584,7 +2577,7 @@
 7081	コーユーレンティア	www.koyou.co.jp
 7082	ジモティー	jmty.co.jp
 7083	ＡＨＣグループ	ahc.co.jp
-7084	Ｋｉｄｓ　Ｓｍｉｌｅ　Ｈｏｌｄｉｎｇｓ	www.kidssmile-hd.co.jp
+7084	Ｓｍｉｌｅ　Ｈｏｌｄｉｎｇｓ	www.smile-hld.com
 7085	カーブスホールディングス	www.curvesholdings.co.jp
 7087	ウイルテック	www.willtec.jp
 7088	フォーラムエンジニアリング	www.forumeng.co.jp
@@ -3131,7 +3124,6 @@
 8065	佐藤商事	www.satoshoji.co.jp
 8066	三谷商事	www.mitani-corp.co.jp
 8070	東京産業	www.tscom.co.jp
-8072	日本出版貿易	www.jptco.co.jp
 8074	ユアサ商事	www.yuasa.co.jp
 8075	神鋼商事	www.shinsho.co.jp
 8076	カノークス	www.canox.co.jp
@@ -3156,7 +3148,6 @@
 8107	キムラタン	www.kimuratan.co.jp
 8111	ゴールドウイン	corp.goldwin.co.jp
 8113	ユニ・チャーム	www.unicharm.co.jp
-8114	デサント	www.descente.co.jp
 8115	ムーンバット	www.moonbat.co.jp
 8117	中央自動車工業	www.central-auto.co.jp
 8118	キング	www.king-group.co.jp
@@ -3432,7 +3423,6 @@
 9051	センコン物流	www.senkon.co.jp
 9052	山陽電気鉄道	www.sanyo-railway.co.jp
 9057	遠州トラック	www.enshu-truck.co.jp
-9058	トランコム	www.trancom.co.jp
 9059	カンダホールディングス	www.kanda-web.co.jp
 9060	日本ロジテム	www.logitem.co.jp
 9063	岡山県貨物運送	www.okaken.co.jp
@@ -3496,9 +3486,8 @@
 9225	ブリッジコンサルティンググループ	bridge-group.co.jp
 9227	マイクロ波化学	mwcc.jp
 9229	サンウェルズ	sunwels.jp
-9232	パスコ	www.pasco.co.jp
 9233	アジア航測	www.ajiko.co.jp
-9235	売れるネット広告社	www.ureru.co.jp
+9235	売れるネット広告社グループ	group.ureru.co.jp
 9236	ジャパンＭ＆Ａソリューション	jpmas.jp
 9237	笑美面	emimen.co.jp
 9238	バリュークリエーション	value-creation.jp
