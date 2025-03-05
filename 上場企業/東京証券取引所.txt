@@ -31,7 +31,6 @@
 1435	ｒｏｂｏｔ　ｈｏｍｅ	corp.robothome.jp
 1436	グリーンエナジー＆カンパニー	green-energy.co.jp
 1438	岐阜造園	www.gifu-zohen.co.jp
-1439	安江工務店	www.yasue.co.jp
 143A	イシン	ishin1853.co.jp
 1443	技研ホールディングス	www.giken-hd.co.jp
 1444	ニッソウ	reform-nisso.co.jp
@@ -701,6 +700,7 @@
 3197	すかいらーくホールディングス	corp.skylark.co.jp
 3198	ＳＦＰホールディングス	www.sfpdining.jp
 3199	綿半ホールディングス	watahan.co.jp
+319A	技術承継機構	ngt-g.com
 3201	日本毛織	www.nikke.co.jp
 3202	ダイトウボウ	www.daitobo.co.jp
 3204	トーア紡コーポレーション	www.toabo.co.jp
@@ -714,13 +714,16 @@
 3236	プロパスト	www.properst.co.jp
 3237	イントランス	www.intrance.jp
 3238	セントラル総合開発	central-gd.co.jp
+323A	フライヤー	corp.flierinc.com
 3241	ウィル	www.wills.co.jp
 3242	アーバネットコーポレーション	www.urbanet.jp
 3245	ディア・ライフ	www.dear-life.co.jp
 3246	コーセーアールイー	www.kose-re.jp
 3248	アールエイジ	www.early-age.co.jp
+324A	ブッキングリゾート	www.booking-resort.jp
 3252	地主	www.jinushi-jp.com
 3254	プレサンスコーポレーション	www.pressance.co.jp
+325A	ＴＥＮＴＩＡＬ	corp.tential.jp
 3261	グランディーズ	www.grandes.jp
 3264	アスコット	ascotcorp.co.jp
 3266	ファンドクリエーショングループ	www.fc-group.co.jp
@@ -746,7 +749,6 @@
 3319	ゴルフダイジェスト・オンライン	company.golfdigest.co.jp
 3320	クロスプラス	www.crossplus.co.jp
 3321	ミタチ産業	www.mitachi.co.jp
-3322	アルファグループ	www.alpha-grp.co.jp
 3323	レカム	www.recomm.co.jp
 3326	ランシステム	www.runsystem.co.jp
 3328	ＢＥＥＮＯＳ	beenos.com
@@ -1009,7 +1011,6 @@
 3853	アステリア	jp.asteria.com
 3854	アイル	www.ill.co.jp
 3856	Ａｂａｌａｎｃｅ	www.abalance.jp
-3857	ラック	www.lac.co.jp
 3858	ユビキタスＡＩ	www.ubiquitous-ai.com
 3861	王子ホールディングス	www.ojiholdings.co.jp
 3863	日本製紙	www.nipponpapergroup.com
@@ -1094,7 +1095,6 @@
 3987	エコモット	www.ecomott.co.jp
 3988	ＳＹＳホールディングス	www.syshd.co.jp
 3989	シェアリングテクノロジー	www.sharing-tech.co.jp
-3990	ＵＵＵＭ	www.uuum.co.jp
 3991	ウォンテッドリー	wantedlyinc.com
 3992	ニーズウェル	www.needswell.com
 3993	ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ	www.pkshatech.com
@@ -2041,7 +2041,6 @@
 6158	和井田製作所	www.waida.co.jp
 6159	ミクロン精密	www.micron-grinder.co.jp
 6161	エスティック	www.estic.co.jp
-6164	太陽工機	www.taiyokoki.com
 6165	パンチ工業	www.punch.co.jp
 6166	中村超硬	www.nakamura-gp.co.jp
 6167	冨士ダイス	www.fujidie.co.jp
@@ -3197,7 +3196,6 @@
 8208	エンチョー	www.encho.co.jp
 8209	フレンドリー	www.friendly-co.com
 8214	ＡＯＫＩホールディングス	ir.aoki-hd.co.jp
-8215	銀座山形屋	www.ginyama.co.jp
 8217	オークワ	www.okuwa.net
 8218	コメリ	www.komeri.bit.or.jp
 8219	青山商事	www.aoyama-syouji.co.jp
@@ -3322,7 +3320,6 @@
 8714	池田泉州ホールディングス	www.senshuikeda-hd.co.jp
 8715	アニコム　ホールディングス	www.anicom.co.jp
 8725	ＭＳ＆ＡＤインシュアランスグループホールディングス	www.ms-ad-hd.com
-8732	マネーパートナーズグループ	www.moneypartners-group.co.jp
 8737	あかつき本社	www.akatsuki-fg.com
 8739	スパークス・グループ	www.sparx.jp
 8742	小林洋行	www.kobayashiyoko.com
@@ -3684,7 +3681,6 @@
 9661	歌舞伎座	www.kabuki-za.co.jp
 9663	ナガワ	group.nagawa.co.jp
 9672	東京都競馬	www.tokyotokeiba.co.jp
-9675	常磐興産	www.joban-kosan.com
 9678	カナモト	www.kanamoto.co.jp
 9679	ホウライ	www.horai-kk.co.jp
 9682	ＤＴＳ	www.dts.co.jp
