@@ -21,5 +21,6 @@
 8559	豊和銀行	www.howabank.co.jp
 8560	宮崎太陽銀行	www.taiyobank.co.jp
 9035	第一交通産業	www.daiichi-koutsu.co.jp
+9388	パパネッツ	papanets.co.jp
 9407	ＲＫＢ毎日ホールディングス	rkb.jp
 9942	ジョイフル	www.joyfull.co.jp
