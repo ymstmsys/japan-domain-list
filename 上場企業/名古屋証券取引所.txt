@@ -17,7 +17,6 @@
 3739	コムシード	www.commseed.net
 3775	ガイアックス	www.gaiax.co.jp
 3808	オウケイウェイヴ	okwave.co.jp
-3830	ギガプライズ	www.gigaprize.co.jp
 3952	中央紙器工業	www.mcpack.co.jp
 5075	アップコン	www.upcon.co.jp
 5241	日本オーエー研究所	www.noar.co.jp
