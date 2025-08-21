@@ -346,7 +346,7 @@
 241A	ＲＯＸＸ	roxx.co.jp
 2424	ブラス	www.brass.ne.jp
 2425	ケアサービス	www.care.co.jp
-2428	ウェルネット	www.well-net.jp
+2428	ウェルネット	www.wellnet.co.jp
 2429	ワールドホールディングス	world-hd.co.jp
 2432	ディー・エヌ・エー	dena.com
 2433	博報堂ＤＹホールディングス	www.hakuhodody-holdings.co.jp
@@ -640,7 +640,7 @@
 3109	シキボウ	www.shikibo.co.jp
 3110	日東紡績	www.nittobo.co.jp
 3111	オーミケンシ	omikenshi.co.jp
-3113	ＵＮＩＶＡ・Ｏａｋホールディングス	www.oakcapital.jp
+3113	ＵＮＩＶＡ・Ｏａｋホールディングス	univahld.com
 3116	トヨタ紡織	www.toyota-boshoku.com
 3121	マーチャント・バンカーズ	mbkworld.co.jp
 3123	サイボー	saibo.co.jp
@@ -964,7 +964,7 @@
 3744	サイオス	www.sios.com
 3747	インタートレード	www.itrade.co.jp
 3750	ＡＤＲ１２０Ｓ	adr.co.jp
-3753	フライトソリューションズ	www.flight-hd.co.jp
+3753	フライトソリューションズ	www.flight.co.jp
 3758	アエリア	www.aeria.jp
 3760	ケイブ	www.cave.co.jp
 3762	テクマトリックス	www.techmatrix.co.jp
@@ -1446,7 +1446,7 @@
 4576	デ・ウエスタン・セラピテクス研究所	dwti.co.jp
 4577	ダイト	www.daitonet.co.jp
 4578	大塚ホールディングス	www.otsuka.com
-4579	ラクオリア創薬	www.raqualia.co.jp
+4579	ラクオリア創薬	www.raqualia.com
 4582	シンバイオ製薬	www.symbiopharma.com
 4583	カイオム・バイオサイエンス	www.chiome.co.jp
 4584	キッズウェル・バイオ	www.kidswellbio.com
@@ -1509,7 +1509,7 @@
 4685	菱友システムズ	www.ryoyu.co.jp
 4686	ジャストシステム	www.justsystems.com
 4687	ＴＤＣソフト	www.tdc.co.jp
-4689	ＬＩＮＥヤフー	www.z-holdings.co.jp
+4689	ＬＩＮＥヤフー	www.lycorp.co.jp
 4690	日本パレットプール	www.npp-web.co.jp
 4691	ワシントンホテル	www.washingtonhotel.co.jp
 4694	ビー・エム・エル	www.bml.co.jp
@@ -2085,7 +2085,7 @@
 6230	ＳＡＮＥＩ	www.sanei.ltd
 6231	木村工機	www.kimukoh.co.jp
 6232	ＡＣＳＬ	www.acsl.co.jp
-6233	ＫＬＡＳＳ	www.kyokuto-sanki.co.jp
+6233	ＫＬＡＳＳ	www.klass-corp.co.jp
 6235	オプトラン	www.optorun.co.jp
 6237	イワキポンプ	www.iwakipumps.co.jp
 6238	フリュー	www.furyu.jp
