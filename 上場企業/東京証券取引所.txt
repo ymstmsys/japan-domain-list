@@ -408,7 +408,6 @@
 2597	ユニカフェ	www.unicafe.com
 2602	日清オイリオグループ	www.nisshin-oillio.com
 2607	不二製油	www.fujioil.co.jp
-260A	オルツ	alt.ai
 2612	かどや製油	www.kadoya.com
 2613	Ｊ－オイルミルズ	www.j-oil.com
 261A	日水コン	www.nissuicon.co.jp
@@ -746,12 +745,10 @@
 3321	ミタチ産業	www.mitachi.co.jp
 3323	レカム	www.recomm.co.jp
 3326	ランシステム	www.runsystem.co.jp
-3328	ＢＥＥＮＯＳ	beenos.com
 3329	東和フードサービス	www.towafood-net.co.jp
 332A	ミーク	www.meeq.com
 3333	あさひ	corporate.cb-asahi.co.jp
 3341	日本調剤	www.nicho.co.jp
-3347	トラスト	www.trust-ltd.co.jp
 3349	コスモス薬品	www.cosmospc.co.jp
 334A	ビジュアル・プロセッシング・ジャパン	www.vpj.co.jp
 3350	メタプラネット	metaplanet.jp
@@ -846,7 +843,7 @@
 3524	日東製網	www.nittoseimo.co.jp
 3526	芦森工業	www.ashimori.co.jp
 3529	アツギ	www.atsugi.co.jp
-352A	ＬＩＦＥ　ＣＲＥＡＴＥ	be-lifecreate.com
+352A	ＬＯＩＶＥ	loive.co.jp
 3536	アクサスホールディングス	www.axas-hd.jp
 3537	昭栄薬品	www.shoei-yakuhin.co.jp
 3538	ウイルプラスホールディングス	www.willplus.co.jp
@@ -1132,6 +1129,7 @@
 4026	神島化学工業	konoshima.co.jp
 4027	テイカ	www.tayca.co.jp
 4028	石原産業	www.iskweb.co.jp
+402A	アクセルスペースホールディングス	www.axelspacehd.com
 4031	片倉コープアグリ	www.katakuraco-op.com
 4040	南海化学	www.nankai-chem.co.jp
 4041	日本曹達	www.nippon-soda.co.jp
@@ -1426,7 +1424,6 @@
 4547	キッセイ薬品工業	www.kissei.co.jp
 4548	生化学工業	www.seikagaku.co.jp
 4549	栄研化学	www.eiken.co.jp
-4551	鳥居薬品	www.torii.co.jp
 4552	ＪＣＲファーマ	www.jcrpharm.co.jp
 4553	東和薬品	www.towayakuhin.co.jp
 4554	富士製薬工業	www.fujipharma.jp
@@ -2387,7 +2384,6 @@
 6752	パナソニック　ホールディングス	holdings.panasonic
 6753	シャープ	corporate.jp.sharp
 6754	アンリツ	www.anritsu.com
-6755	富士通ゼネラル	www.fujitsu-general.com
 6757	ＯＳＧコーポレーション	www.osg-nandemonet.co.jp
 6758	ソニーグループ	www.sony.com
 6762	ＴＤＫ	www.tdk.com
@@ -2858,7 +2854,6 @@
 7616	コロワイド	www.colowide.co.jp
 7619	田中商事	www.tanakashoji.co.jp
 7621	うかい	www.ukai.co.jp
-7623	サンオータス	www.sunautas.co.jp
 7624	ＮａＩＴＯ	www.naito.net
 7625	グローバルダイニング	www.global-dining.com
 7628	オーハシテクニカ	www.ohashi.co.jp
@@ -3041,7 +3036,6 @@
 7955	クリナップ	cleanup.jp
 7956	ピジョン	www.pigeon.co.jp
 7957	フジコピアン	www.fujicopian.com
-7958	天馬	www.tenmacorp.co.jp
 7962	キングジム	www.kingjim.co.jp
 7963	興研	www.koken-ltd.co.jp
 7965	象印マホービン	www.zojirushi.co.jp
@@ -3181,7 +3175,6 @@
 8202	ラオックスホールディングス	www.laox.co.jp
 8203	ＭｒＭａｘＨＤ	www.mrmax.co.jp
 8207	テンアライド	www.teng.co.jp
-8208	エンチョー	www.encho.co.jp
 8209	フレンドリー	www.friendly-co.com
 8214	ＡＯＫＩホールディングス	ir.aoki-hd.co.jp
 8217	オークワ	www.okuwa.net
