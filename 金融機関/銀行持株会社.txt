@@ -4,7 +4,6 @@
 りそなホールディングス	www.resona-gr.co.jp
 ソニーフィナンシャルホールディングス	www.sonyfh.co.jp
 三井住友トラストグループ	www.smth.jp
-日本郵政	www.japanpost.jp
 AFSコーポレーション	www.afscorporation.co.jp
 auフィナンシャルホールディングス	www.au-financial.com
 SBI地銀ホールディングス	www.sbirbhd.co.jp
@@ -14,13 +13,13 @@ SBI地銀ホールディングス	www.sbirbhd.co.jp
 第四北越フィナンシャルグループ	www.dhfg.co.jp
 めぶきフィナンシャルグループ	www.mebuki-fg.co.jp
 東京きらぼしフィナンシャルグループ	www.tokyo-kiraboshifg.co.jp
-コンコルディア・フィナンシャルグループ	www.concordia-fg.jp
+横浜フィナンシャルグループ	www.yokohamafg.co.jp
 三十三フィナンシャルグループ	www.33fg.co.jp
 十六フィナンシャルグループ	www.16fg.co.jp
 しずおかフィナンシャルグループ	www.shizuoka-fg.co.jp
 あいちフィナンシャルグループ	www.aichi-fg.co.jp
 ほくほくフィナンシャルグループ	www.hokuhoku-fg.co.jp
-北國フィナンシャルホールディングス	www.hokkokubank.co.jp
+ＣＣＩグループ	www.ccig.co.jp
 池田泉州ホールディングス	www.senshuikeda-hd.co.jp
 京都フィナンシャルグループ	www.kyoto-fg.co.jp
 山口フィナンシャルグループ	www.ymfg.co.jp
