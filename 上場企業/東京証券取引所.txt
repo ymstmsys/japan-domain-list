@@ -133,7 +133,6 @@
 1878	大東建託	www.kentaku.co.jp
 1879	新日本建設	www.shinnihon-c.co.jp
 1882	東亜道路工業	www.toadoro.co.jp
-1884	日本道路	www.nipponroad.co.jp
 1885	東亜建設工業	www.toa-const.co.jp
 1887	日本国土開発	www.n-kokudo.co.jp
 1888	若築建設	www.wakachiku.co.jp
@@ -170,7 +169,7 @@
 1950	日本電設工業	www.densetsuko.co.jp
 1951	エクシオグループ	www.exeo.co.jp
 1952	新日本空調	www.snk.co.jp
-1959	九電工	www.kyudenko.co.jp
+1959	クラフティア	www.kraftia.co.jp
 195A	ＭＵＳＣＡＴ　ＧＲＯＵＰ	muscatgroup.co.jp
 1960	サンテック	www.suntec-sec.co.jp
 1961	三機工業	www.sanki.co.jp
@@ -199,7 +198,7 @@
 2003	日東富士製粉	www.nittofuji.co.jp
 2004	昭和産業	www.showa-sangyo.co.jp
 2009	鳥越製粉	www.the-torigoe.co.jp
-202A	豆蔵デジタルホールディングス	www.mamezo-dhd.com
+202A	豆蔵	mamezo.tech
 2053	中部飼料	www.chubushiryo.co.jp
 2055	日和産業	www.nichiwasangyo.co.jp
 205A	ロゴスホールディングス	logos-holdings.jp
@@ -503,7 +502,6 @@
 2819	エバラ食品工業	www.ebarafoods.com
 281A	インフォメティス	www.informetis.com
 2820	やまみ	www.yamami.co.jp
-2830	アヲハタ	www.aohata.co.jp
 2831	はごろもフーズ	corp.hagoromofoods.co.jp
 285A	キオクシアホールディングス	www.kioxia-holdings.com
 286A	ユカリア	eucalia.jp
@@ -569,7 +567,7 @@
 2997	ストレージ王	www.storageoh.co.jp
 2998	クリアル	corp.creal.jp
 2999	ホームポジション	www.homeposition.co.jp
-299A	ｄｅｌｙ	dely.jp
+299A	クラシル	kurashiru.co.jp
 3001	片倉工業	www.katakura.co.jp
 3002	グンゼ	www.gunze.co.jp
 3003	ヒューリック	www.hulic.co.jp
@@ -836,7 +834,7 @@
 350A	デジタルグリッド	www.digitalgrid.com
 3512	日本フエルト	www.felt.co.jp
 3513	イチカワ	www.ik-felt.co.jp
-3521	エコナックホールディングス	www.econach.co.jp
+3521	テルマー湯ホールディングス	www.econach.co.jp
 3524	日東製網	www.nittoseimo.co.jp
 3526	芦森工業	www.ashimori.co.jp
 3529	アツギ	www.atsugi.co.jp
@@ -939,7 +937,7 @@
 3691	デジタルプラス	digital-plus.co.jp
 3692	ＦＦＲＩセキュリティ	www.ffri.jp
 3694	オプティム	www.optim.co.jp
-3695	ＧＭＯリサーチ＆ＡＩ	gmo-research.ai
+3695	ＧＭＯプロダクトプラットフォーム	product.gmo
 3696	セレス	ceres-inc.jp
 3697	ＳＨＩＦＴ	www.shiftinc.jp
 3698	ＣＲＩ・ミドルウェア	www.cri-mw.co.jp
@@ -967,7 +965,6 @@
 3766	システムズ・デザイン	www.sdcj.co.jp
 3768	リスクモンスター	www.riskmonster.co.jp
 3769	ＧＭＯペイメントゲートウェイ	www.gmo-pg.com
-3770	ザッパラス	www.zappallas.com
 3771	システムリサーチ	www.sr-net.co.jp
 3772	ウェルス・マネジメント	www.wealth-mngt.com
 3773	アドバンスト・メディア	www.advanced-media.co.jp
@@ -1185,12 +1182,15 @@
 4120	スガイ化学工業	www.sugai-chem.co.jp
 4124	大阪油化工業	www.osaka-yuka.co.jp
 4125	三和油化工業	www.sanwayuka.co.jp
+414A	オーバーラップホールディングス	hd.over-lap.co.jp
 4151	協和キリン	www.kyowakirin.co.jp
+415A	ＧＭＯ　ＴＥＣＨホールディングス	hd.gmotech.jp
 4165	プレイド	plaid.co.jp
 4166	かっこ	cacco.co.jp
 4167	ココペリ	www.kokopelli-inc.com
 4168	ヤプリ	yappli.co.jp
 4169	ＥＮＥＣＨＡＮＧＥ	enechange.co.jp
+416A	富士ユナイトホールディングス	www.fujiunited.com
 4170	Ｋａｉｚｅｎ　Ｐｌａｔｆｏｒｍ	kaizenplatform.co.jp
 4171	グローバルインフォメーション	corporate.gii.co.jp
 4172	東和ハイシステム	www.towa-hi-sys.co.jp
@@ -1200,6 +1200,7 @@
 4177	ｉ‐ｐｌｕｇ	i-plug.co.jp
 4178	Ｓｈａｒｉｎｇ　Ｉｎｎｏｖａｔｉｏｎｓ	sharing-innovations.com
 4179	ジーネクスト	www.gnext.co.jp
+417A	ブルーゾーンホールディングス	www.bluezonesholdings.co.jp
 4180	Ａｐｐｉｅｒ　Ｇｒｏｕｐ	www.appier.com
 4182	三菱瓦斯化学	www.mgc.co.jp
 4183	三井化学	jp.mitsuichemicals.com
@@ -1223,6 +1224,7 @@
 4212	積水樹脂	www.sekisuijushi.co.jp
 4216	旭有機材	www.asahi-yukizai.co.jp
 4218	ニチバン	www.nichiban.co.jp
+421A	ムービン・ストラテジック・キャリア	corp.movin.co.jp
 4220	リケンテクノス	www.rikentechnos.co.jp
 4221	大倉工業	www.okr-ind.co.jp
 4222	児玉化学工業	www.kodama-chemical.co.jp
@@ -1234,6 +1236,7 @@
 4235	ウルトラファブリックス・ホールディングス	www.ultrafabricshd.co.jp
 4237	フジプレアム	www.fujipream.co.jp
 4238	ミライアル	www.miraial.co.jp
+423A	ライオン事務器	www.lion-jimuki.co.jp
 4240	クラスターテクノロジー	www.cluster-tech.co.jp
 4241	アテクト	www.atect.co.jp
 4242	タカギセイコー	www.takagi-seiko.co.jp
@@ -1262,9 +1265,11 @@
 4286	ＣＬホールディングス	www.clholdings.co.jp
 4287	ジャストプランニング	www.justweb.co.jp
 4288	アズジェント	www.asgent.co.jp
+428A	サイプレス・ホールディングス	www.cypress-holdings.co.jp
 4290	プレステージ・インターナショナル	www.prestigein.com
 4293	セプテーニ・ホールディングス	www.septeni-holdings.co.jp
 4299	ハイマックス	www.himacs.jp
+429A	テクセンドフォトマスク	www.photomask.com
 4301	アミューズ	www.amuse.co.jp
 4307	野村総合研究所	www.nri.com
 4308	Ｊストリーム	www.stream.co.jp
@@ -1273,6 +1278,7 @@
 4317	レイ	ray.co.jp
 4318	クイック	919.jp
 4319	ＴＡＣ	ir.tac-school.co.jp
+431A	ユーソナー	usonar.co.jp
 4320	ＣＥホールディングス	www.ce-hd.co.jp
 4323	日本システム技術	www.jast.jp
 4324	電通グループ	www.group.dentsu.com
@@ -1299,6 +1305,7 @@
 4367	広栄化学	www.koeichem.com
 4368	扶桑化学工業	fusokk.co.jp
 4369	トリケミカル研究所	www.trichemical.com
+436A	サイバーソリューションズ	www.cybersolutions.co.jp
 4370	モビルス	mobilus.co.jp
 4371	コアコンセプト・テクノロジー	www.cct-inc.co.jp
 4372	ユミルリンク	www.ymir.co.jp
@@ -1318,6 +1325,7 @@
 4387	ＺＵＵ	zuu.co.jp
 4388	エーアイ	www.ai-j.jp
 4389	プロパティデータバンク	corp.propertydbk.com
+438A	インフキュリオン	infcurion.com
 4390	ＩＰＳ	ipsism.co.jp
 4391	ロジザード	www.logizard.co.jp
 4392	ＦＩＧ	figinc.swcms.net
@@ -1572,7 +1580,7 @@
 4845	スカラ	scalagrp.jp
 4847	インテリジェント　ウェイブ	www.iwi.co.jp
 4848	フルキャストホールディングス	www.fullcastholdings.co.jp
-4849	エン・ジャパン	corp.en-japan.com
+4849	エン	corp.en-japan.com
 4875	メディシノバ・インク	medicinova.jp
 4880	セルソース	www.cellsource.co.jp
 4881	ファンペップ	www.funpep.co.jp
@@ -1751,7 +1759,7 @@
 5337	ダントーホールディングス	www.danto.co.jp
 5341	ＡＳＡＨＩ　ＥＩＴＯホールディングス	www.asahieito.co.jp
 5344	ＭＡＲＵＷＡ	www.maruwa-g.com
-5351	品川リフラクトリーズ	www.shinagawa.co.jp
+5351	品川リフラ	www.shinagawa.co.jp
 5352	黒崎播磨	www.krosaki.co.jp
 5355	日本坩堝	www.rutsubo.com
 5356	美濃窯業	www.mino-ceramic.co.jp
@@ -1760,7 +1768,7 @@
 5367	ニッカトー	nikkato.co.jp
 5368	日本インシュレーション	www.jic-bestork.co.jp
 5380	新東	www.shintokawara.co.jp
-5381	Ｍｉｐｏｘ	www.mipox.co.jp
+5381	マイポックス	www.mipox.co.jp
 5384	フジミインコーポレーテッド	www.fujimiinc.co.jp
 5386	鶴弥	www.try110.com
 5388	クニミネ工業	www.kunimine.co.jp
@@ -1777,7 +1785,7 @@
 5445	東京鐵鋼	www.tokyotekko.co.jp
 5446	北越メタル	www.hokume.co.jp
 5449	大阪製鐵	www.osaka-seitetu.co.jp
-5451	淀川製鋼所	www.yodoko.co.jp
+5451	ヨドコウ	www.yodoko.co.jp
 5458	高砂鐵工	www.takasago-t.co.jp
 5461	中部鋼鈑	www.chubukohan.co.jp
 5463	丸一鋼管	www.maruichikokan.co.jp
@@ -1837,7 +1845,7 @@
 5702	大紀アルミニウム工業所	www.dik-net.com
 5703	日本軽金属ホールディングス	www.nikkeikinholdings.co.jp
 5704	ＪＭＣ	www.jmc-rp.co.jp
-5706	三井金属鉱業	www.mitsui-kinzoku.com
+5706	三井金属	www.mitsui-kinzoku.com
 5707	東邦亜鉛	www.toho-zinc.co.jp
 5711	三菱マテリアル	www.mmc.co.jp
 5713	住友金属鉱山	www.smm.co.jp
@@ -2004,7 +2012,6 @@
 6092	エンバイオ・ホールディングス	enbio-holdings.com
 6093	エスクロー・エージェント・ジャパン	www.ea-j.jp
 6094	フリークアウト・ホールディングス	www.fout.co.jp
-6095	メドピア	medpeer.co.jp
 6096	レアジョブ	www.rarejob.co.jp
 6098	リクルートホールディングス	recruit-holdings.com
 6099	エラン	www.kkelan.com
@@ -2088,7 +2095,7 @@
 6246	テクノスマート	www.technosmart.co.jp
 6247	日阪製作所	www.hisaka.co.jp
 6248	横田製作所	www.aquadevice.com
-6249	ゲームカード・ジョイコホールディングス	www.gjhd.jp
+6249	ゲームカードホールディングス	www.gc-holdings.co.jp
 6250	やまびこ	www.yamabiko-corp.co.jp
 6254	野村マイクロ・サイエンス	www.nomura-nms.co.jp
 6255	エヌ・ピー・シー	www.npcgroup.net
@@ -2191,7 +2198,6 @@
 6406	フジテック	www.fujitec.co.jp
 6407	ＣＫＤ	www.ckd.co.jp
 6408	小倉クラッチ	www.oguraclutch.co.jp
-6411	中野冷機	nakano-reiki.com
 6412	平和	www.heiwanet.co.jp
 6413	理想科学工業	www.riso.co.jp
 6416	桂川電機	kiphq.co.jp
@@ -2494,7 +2500,6 @@
 6966	三井ハイテック	www.mitsui-high-tec.com
 6969	松尾電機	www.ncc-matsuo.co.jp
 6971	京セラ	www.kyocera.co.jp
-6973	協栄産業	www.kyoei.co.jp
 6976	太陽誘電	www.yuden.co.jp
 6977	日本抵抗器製作所	www.jrm.co.jp
 6981	村田製作所	corporate.murata.com
@@ -2526,7 +2531,7 @@
 7036	イーエムネットジャパン	emnet.co.jp
 7037	テノ．ホールディングス	www.teno.co.jp
 7038	フロンティア・マネジメント	www.frontier-mgmt.com
-7039	ブリッジインターナショナル	bridge-g.com
+7039	ブリッジインターナショナルグループ	bridge-g.com
 7040	サン・ライフホールディング	www.sunlife.jp
 7041	ＣＲＧホールディングス	www.crgh.co.jp
 7042	アクセスグループ・ホールディングス	www.access-t.co.jp
@@ -2556,7 +2561,7 @@
 7074	トゥエンティーフォーセブンホールディングス	247group.co.jp
 7075	ＱＬＳホールディングス	qlshd.co.jp
 7077	ＡＬｉＮＫインターネット	www.alink.ne.jp
-7078	ＩＮＣＬＵＳＩＶＥ	inclusive.co.jp
+7078	ＩＮＣＬＵＳＩＶＥ　Ｈｏｌｄｉｎｇｓ	inclusive.co.jp
 7079	ＷＤＢココ	www.wdbcoco.com
 7080	スポーツフィールド	www.sports-f.co.jp
 7081	コーユーレンティア	www.koyou.co.jp
@@ -2614,7 +2619,7 @@
 7183	あんしん保証	anshin-gs.co.jp
 7184	富山第一銀行	www.first-bank.co.jp
 7185	ヒロセ通商	hirose-fx.co.jp
-7186	コンコルディア・フィナンシャルグループ	www.concordia-fg.jp
+7186	横浜フィナンシャルグループ	www.yokohamafg.co.jp
 7187	ジェイリース	www.j-lease.jp
 7189	西日本フィナンシャルホールディングス	www.nnfh.co.jp
 7191	イントラスト	www.entrust-inc.jp
@@ -2725,7 +2730,7 @@
 7377	ＤＮホールディングス	www.dcne.co.jp
 7378	アシロ	asiro.co.jp
 7380	十六フィナンシャルグループ	www.16fg.co.jp
-7381	北國フィナンシャルホールディングス	www.hfhd.co.jp
+7381	ＣＣＩグループ	www.ccig.co.jp
 7383	ネットプロテクションズホールディングス	corp.netprotections.com
 7384	プロクレアホールディングス	www.procrea-hd.co.jp
 7388	ＦＰパートナー	fpp.jp
@@ -2833,7 +2838,6 @@
 7602	レダックス	www.ledax.co.jp
 7603	ジーイエット	gyet.co.jp
 7604	梅の花グループ	www.umenohana.co.jp
-7605	フジ・コーポレーション	www.fujicorporation.com
 7606	ユナイテッドアローズ	www.united-arrows.co.jp
 7607	進和	www.shinwa-jpn.co.jp
 7608	エスケイジャパン	www.sk-japan.co.jp
@@ -3395,7 +3399,6 @@
 9063	岡山県貨物運送	www.okaken.co.jp
 9064	ヤマトホールディングス	www.yamato-hd.co.jp
 9065	山九	www.sankyu.co.jp
-9066	日新	www.nissin-tw.com
 9067	丸運	www.maruwn.co.jp
 9068	丸全昭和運輸	www.maruzenshowa.co.jp
 9069	センコーグループホールディングス	www.senkogrouphd.co.jp
@@ -3683,7 +3686,7 @@
 9759	ＮＳＤ	www.nsd.co.jp
 9760	進学会ホールディングス	www.shingakukai.co.jp
 9761	東海リース	tokai-lease.co.jp
-9763	丸紅建材リース	www.mcml-maruken.com
+9763	丸建リース	www.maruken-lease.co.jp
 9765	オオバ	www.k-ohba.co.jp
 9766	コナミグループ	www.konami.com
 9767	日建工学	www.nikken-kogaku.co.jp
@@ -3703,7 +3706,7 @@
 9816	ストライダーズ	www.striders.co.jp
 9818	大丸エナウィン	www.gas-daimaru.co.jp
 9820	エムティジェネックス	www.mt-genex.co.jp
-9823	マミーマート	mammymart.co.jp
+9823	マミーマートホールディングス	mammymart.co.jp
 9824	泉州電業	www.senden.co.jp
 9827	リリカラ	www.lilycolor.co.jp
 9828	Ｇｅｎｋｉ　Ｇｌｏｂａｌ　Ｄｉｎｉｎｇ　Ｃｏｎｃｅｐｔｓ	www.genkisushi.co.jp

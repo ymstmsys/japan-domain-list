@@ -2,7 +2,7 @@
 1777	川崎設備工業	www.kawasaki-sk.co.jp
 1869	名工建設	www.meikokensetsu.co.jp
 1892	徳倉建設	www.tokura.co.jp
-2467	バルクホールディングス	www.vlcholdings.com
+2467	ＶＬＣセキュリティ	vlcsecurity.com
 2551	マルサンアイ	www.marusanai.co.jp
 259A	ケイ・ウノ	www.k-uno.co.jp
 2902	太陽化学	www.taiyokagaku.com
@@ -19,6 +19,7 @@
 377A	エージェントＩＧホールディングス	a-gent.co.jp
 3808	オーケーウェブ	okwave.co.jp
 391A	山忠	www.yamachuu.co.jp
+418A	ウリドキ	uridoki.co.jp
 5075	アップコン	www.upcon.co.jp
 5241	日本オーエー研究所	www.noar.co.jp
 5342	ジャニス工業	www.janis-kogyo.co.jp
