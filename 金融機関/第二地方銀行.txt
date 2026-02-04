@@ -11,7 +11,6 @@
 東京スター銀行	www.tokyostarbank.co.jp
 神奈川銀行	www.kanagawabank.co.jp
 大光銀行	www.taikobank.jp
-長野銀行	www.naganobank.co.jp
 静岡中央銀行	www.shizuokachuo-bank.co.jp
 あいち銀行	www.aichibank.co.jp
 名古屋銀行	www.meigin.com
