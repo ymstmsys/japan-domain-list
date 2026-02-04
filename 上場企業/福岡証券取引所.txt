@@ -2,7 +2,7 @@
 1999	サイタホールディングス	www.saita-hd.co.jp
 2058	ヒガシマル	www.k-higashimaru.co.jp
 231A	Ｃｒｏｓｓ Ｅホールディングス	cross-e-hd.co.jp
-242A	リプライオリティ	www.repriority.co.jp/
+242A	リプライオリティ	www.repriority.co.jp
 272A	グリーンクロスホールディングス	green-cross-hd.co.jp
 2919	マルタイ	www.marutai.co.jp
 2974	大英産業	www.daieisangyo.co.jp
