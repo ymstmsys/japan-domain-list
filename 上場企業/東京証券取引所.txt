@@ -306,7 +306,7 @@
 2341	アルバイトタイムス	www.atimes.co.jp
 2342	トランスジェニックグループ	transgenic-group.co.jp
 2344	平安レイサービス	heian-group.co.jp
-2345	クシム	www.kushim.co.jp
+2345	ＨＯＤＬ１	hodl1.jp
 2349	エヌアイデイ	www.nid.co.jp
 2351	ＡＳＪ	www.asj.ad.jp
 2353	日本駐車場開発	n-p-d.co.jp
@@ -824,7 +824,6 @@
 3513	イチカワ	www.ik-felt.co.jp
 3521	テルマー湯ホールディングス	www.econach.co.jp
 3524	日東製網	www.nittoseimo.co.jp
-3526	芦森工業	www.ashimori.co.jp
 3529	アツギ	www.atsugi.co.jp
 352A	ＬＯＩＶＥ	loive.co.jp
 3536	アクサスホールディングス	www.axas-hd.jp
@@ -883,7 +882,7 @@
 3641	パピレス	papy.co.jp
 3645	メディカルネット	www.medical-net.com
 3646	駅探	ekitan.co.jp
-3647	ジー・スリーホールディングス	www.g3holdings.com
+3647	アスリナ	asulina.jp
 3648	ＡＧＳ	www.ags.co.jp
 3649	ファインデックス	findex.co.jp
 3652	ディジタルメディアプロフェッショナル	www.dmprof.com
@@ -1648,6 +1647,7 @@
 4996	クミアイ化学工業	www.kumiai-chem.co.jp
 4997	日本農薬	www.nichino.co.jp
 4998	フマキラー	www.fumakilla.co.jp
+500A	ＴＯブックス	www.tobooks.jp
 5010	日本精蝋	www.seiro.co.jp
 5011	ニチレキグループ	www.nichireki.co.jp
 5013	ユシロ	www.yushiro.co.jp
@@ -1669,6 +1669,8 @@
 5035	ＨＯＵＳＥＩ	www.housei-inc.com
 5036	日本ビジネスシステムズ	www.jbs.co.jp
 5038	ｅＷｅＬＬ	ewell.co.jp
+504A	イノバセル	www.innovacell.co.jp
+505A	ギークリー	corp.geekly.co.jp
 5071	ヴィス	vis-produce.com
 5074	テスホールディングス	www.tess-hd.co.jp
 5076	インフロニア・ホールディングス	www.infroneer.com
@@ -1722,7 +1724,7 @@
 5246	ＥＬＥＭＥＮＴＳ	elementsinc.jp
 5247	ＢＴＭ	www.b-tm.co.jp
 5248	テクノロジーズ	technologies-group.co.jp
-5250	プライム・ストラテジー	www.prime-strategy.co.jp
+5250	ＧＭＯプライム・ストラテジー	www.prime-strategy.co.jp
 5252	日本ナレッジ	www.know-net.co.jp
 5253	カバー	cover-corp.com
 5254	Ａｒｅｎｔ	arent.co.jp
@@ -1817,7 +1819,6 @@
 5590	ネットスターズ	www.netstars.co.jp
 5591	ＡＶＩＬＥＮ	corp.avilen.co.jp
 5592	くすりの窓口	kusurinomadoguchi.co.jp
-5596	アウトルックコンサルティング	www.outlook.co.jp
 5597	ブルーイノベーション	www.blue-i.co.jp
 5599	Ｓ＆Ｊ	www.sandj.co.jp
 5602	栗本鐵工所	www.kurimoto.co.jp
@@ -2742,7 +2743,6 @@
 7442	中山福	www.nakayamafuku.co.jp
 7443	横浜魚類	www.yokohamagyorui.co.jp
 7444	ハリマ共和物産	www.harimakb.co.jp
-7445	ライトオン	biz.right-on.co.jp
 7446	東北化学薬品	www.t-kagaku.co.jp
 7447	ナガイレーベン	www.nagaileben.co.jp
 7450	サンデー	www.sunday.co.jp
@@ -2932,7 +2932,6 @@
 7813	プラッツ	www.platz-ltd.co.jp
 7814	日本創発グループ	www.jcpg.co.jp
 7815	東京ボード工業	www.t-b-i.co.jp
-7817	パラマウントベッドホールディングス	www.paramountbed-hd.co.jp
 7818	トランザクション	www.trans-action.co.jp
 7819	粧美堂	www.shobido-corp.co.jp
 7820	ニホンフラッシュ	www.nfnf.co.jp
@@ -3599,7 +3598,6 @@
 9563	Ａｔｌａｓ　Ｔｅｃｈｎｏｌｏｇｉｅｓ	atlstech.com
 9564	ＦＣＥ	fce-hd.co.jp
 9565	ＧＬＯＥ	gloe.jp
-9600	アイネット	www.inet.co.jp
 9601	松竹	www.shochiku.co.jp
 9602	東宝	www.toho.co.jp
 9603	エイチ・アイ・エス	www.his.co.jp
@@ -3676,7 +3674,6 @@
 9767	日建工学	www.nikken-kogaku.co.jp
 9768	いであ	www.ideacon.co.jp
 9769	学究社	www.gakkyusha.com
-9776	札幌臨床検査センター	www.saturin.co.jp
 9778	昴	www.subaru-net.com
 9780	ハリマビステム	www.bstem.co.jp
 9782	ディーエムエス	www.dmsjp.co.jp
