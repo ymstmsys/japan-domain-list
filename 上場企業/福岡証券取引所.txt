@@ -7,6 +7,7 @@
 2919	マルタイ	www.marutai.co.jp
 2974	大英産業	www.daieisangyo.co.jp
 3047	ＴＲＵＣＫ－ＯＮＥ	www.truck-one.com
+353A	エレベーターコミュニケーションズ	www.evcom.co.jp
 3824	メディアファイブ	www.media5.co.jp
 4018	Geolocation Technology	www.geolocation.co.jp
 4250	フロンティア	all-frontier.com
