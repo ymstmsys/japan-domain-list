@@ -6,7 +6,6 @@
 三井住友トラストグループ	www.smth.jp
 AFSコーポレーション	www.afscorporation.co.jp
 auフィナンシャルホールディングス	www.au-financial.com
-SBI地銀ホールディングス	www.sbirbhd.co.jp
 フィデアホールディングス	www.fidea.co.jp
 じもとホールディングス	www.jimoto-hd.co.jp
 プロクレアホールディングス	www.procrea-hd.co.jp
@@ -19,7 +18,7 @@ SBI地銀ホールディングス	www.sbirbhd.co.jp
 しずおかフィナンシャルグループ	www.shizuoka-fg.co.jp
 あいちフィナンシャルグループ	www.aichi-fg.co.jp
 ほくほくフィナンシャルグループ	www.hokuhoku-fg.co.jp
-ＣＣＩグループ	www.ccig.co.jp
+CCIグループ	www.ccig.co.jp
 池田泉州ホールディングス	www.senshuikeda-hd.co.jp
 京都フィナンシャルグループ	www.kyoto-fg.co.jp
 山口フィナンシャルグループ	www.ymfg.co.jp

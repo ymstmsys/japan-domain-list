@@ -1,6 +1,6 @@
 オリックス銀行	www.orixbank.co.jp
 日本カストディ銀行	www.custody.jp
-新生信託銀行	www.shinseitrust.com
+SBI新生信託銀行	www.shinseitrust.com
 三井住友信託銀行	www.smtb.jp
 SMBC信託銀行	www.smbctb.co.jp
 日証金信託銀行	www.jsftb.co.jp
