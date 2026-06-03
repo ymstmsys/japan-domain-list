@@ -34,10 +34,12 @@
 6142	富士精工	www.c-max.co.jp
 6225	エコム	ecom-jp.co.jp
 6439	中日本鋳工	nakachuko.co.jp
+6565	ＡＢホテル	www.ab-hotel.jp
 6623	愛知電機	www.aichidenki.jp
 6655	東洋電機	www.toyo-elec.co.jp
 6846	中央製作所	www.chuo-seisakusho.co.jp
 7076	名南Ｍ＆Ａ	www.meinan-ma.com
+7118	伸和ホールディングス	shinwa-holdings.co.jp
 7227	アスカ	www.aska.co.jp
 7485	岡谷鋼機	www.okaya.co.jp
 7488	ヤガミ	www.yagami-inc.co.jp
