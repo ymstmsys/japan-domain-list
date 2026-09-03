@@ -221,7 +221,6 @@
 2158	ＦＲＯＮＴＥＯ	www.fronteo.com
 215A	タイミー	corp.timee.co.jp
 2160	ジーエヌアイグループ	www.gnipharma.com
-2162	ｎｍｓ　ホールディングス	www.n-ms.co.jp
 2163	アルトナー	www.artner.co.jp
 2164	地域新聞社	chiikinews.co.jp
 2168	パソナグループ	www.pasonagroup.co.jp
@@ -590,7 +589,6 @@
 3075	銚子丸	www.choushimaru.co.jp
 3076	あい　ホールディングス	www.aiholdings.co.jp
 3077	ホリイフードサービス	www.horiifood.co.jp
-3079	ディーブイエックス	www.dvx.jp
 3080	ジェーソン	jason.co.jp
 3082	きちりホールディングス	www.kichiri.co.jp
 3083	スターシーズ	starseeds.co.jp
@@ -1151,7 +1149,6 @@
 4169	ＥＮＥＣＨＡＮＧＥ	enechange.co.jp
 416A	富士ユナイトホールディングス	www.fujiunited.com
 4170	Ｋａｉｚｅｎ　Ｐｌａｔｆｏｒｍ	kaizenplatform.co.jp
-4171	グローバルインフォメーション	corporate.gii.co.jp
 4172	Ｈｉクラテス	www.towa-hi-sys.co.jp
 4174	アピリッツ	appirits.com
 4175	ｃｏｌｙ	colyinc.com
@@ -1641,7 +1638,6 @@
 5078	セレコーポレーション	www.cel-co.com
 5079	ノバック	www.novac-cnst.co.jp
 5101	横浜ゴム	www.y-yokohama.com
-5103	昭和ホールディングス	www.showa-holdings.co.jp
 5105	ＴＯＹＯ　ＴＩＲＥ	www.toyotires.co.jp
 5108	ブリヂストン	www.bridgestone.co.jp
 5110	住友ゴム工業	www.srigroup.co.jp
@@ -1811,7 +1807,6 @@
 5644	メタルアート	www.metalart.co.jp
 5658	日亜鋼業	www.nichiasteel.co.jp
 5659	日本精線	www.n-seisen.co.jp
-5660	神鋼鋼線工業	www.shinko-wire.co.jp
 5695	パウダーテック	www.powder-tech.co.jp
 5697	サンユウ	www.sanyu-cfs.co.jp
 5698	エンビプロ・ホールディングス	www.envipro.jp
@@ -1976,6 +1971,7 @@
 6073	アサンテ	www.asante.co.jp
 6074	ジェイエスエス	www.jss-group.co.jp
 6078	バリューＨＲ	www.valuehr.com
+607A	エブリー	corp.every.tv
 6080	Ｍ＆Ａキャピタルパートナーズ	www.ma-cp.com
 6081	アライドアーキテクツ	www.aainc.co.jp
 6082	ライドオンエクスプレスホールディングス	www.rideonexpresshd.co.jp
@@ -2040,7 +2036,6 @@
 6194	アトラエ	atrae.co.jp
 6195	ホープ	www.zaigenkakuho.com
 6196	ストライクグループ	www.strike.co.jp
-6197	ソラスト	www.solasto.co.jp
 6198	キャリア	www.careergift.co.jp
 6199	セラク	www.seraku.co.jp
 6200	インソース	www.insource.co.jp
@@ -3131,7 +3126,6 @@
 8278	フジ	www.the-fuji.com
 8281	ゼビオホールディングス	www.xebio.co.jp
 8282	ケーズホールディングス	www.ksdenki.co.jp
-8283	ＰＡＬＴＡＣ	www.paltac.co.jp
 8285	三谷産業	www.mitani.co.jp
 8291	日産東京販売ホールディングス	www.nissan-tokyo-hd.co.jp
 8303	ＳＢＩ新生銀行	www.sbishinseibank.co.jp

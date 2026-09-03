@@ -11,7 +11,6 @@
 5039	キットアライブ	www.kitalive.co.jp
 5579	GSI	glue-si.com
 588A	アットマークテクノ	www.atmark-techno.com
-599A	元気な介護	genkinakaigo.co.jp
 8594	中道リース	www.nakamichi-leasing.co.jp
 9027	ロジネットジャパン	www.loginet-japan.com
 9085	北海道中央バス	www.chuo-bus.co.jp

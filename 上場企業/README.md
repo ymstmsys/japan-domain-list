@@ -9,7 +9,7 @@
 - [東京証券取引所](https://www.jpx.co.jp/markets/statistics-equities/misc/01.html) (プライム、スタンダード、グロース市場のみ)
 - [名古屋証券取引所](https://www.nse.or.jp/listing/search/)
 - [福岡証券取引所](https://www.fse.or.jp/listed/list.php)
-- [札幌証券取引所](https://www.sse.or.jp/listing/list)
+- [札幌証券取引所](https://www.sse.or.jp/listing/list) (本則、アンビシャス市場のみ)
 
 なお、重複上場している企業については、上記の証券取引所の優先順で1ファイルにのみ記載している。
 
