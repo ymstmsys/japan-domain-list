@@ -16,7 +16,9 @@
 5953	昭和鉄工	www.showa.co.jp
 6076	アメイズ	www.az-hotels.co.jp
 7441	Ｍｉｓｕｍｉ	www.misumi.co.jp
+7851	カワセコンピュータサプライ	www.kc-s.co.jp
 7894	丸東産業	www.marutosangyo.co.jp
+7985	ネポン	www.nepon.co.jp
 8398	筑邦銀行	www.chikugin.co.jp
 8554	南日本銀行	nangin.jp
 8559	豊和銀行	www.howabank.co.jp

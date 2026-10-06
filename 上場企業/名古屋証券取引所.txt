@@ -33,6 +33,8 @@
 6111	旭精機工業	www.asahiseiki-mfg.co.jp
 6142	富士精工	www.c-max.co.jp
 6225	エコム	ecom-jp.co.jp
+624A	かがやきホールディングス	kagayaki-grp.com
+640A	ＡＳＮＯＶＡ　Ｃｏｍｐａｎｉｅｓ	www.asnova.co.jp
 6439	中日本鋳工	nakachuko.co.jp
 6565	ＡＢホテル	www.ab-hotel.jp
 6623	愛知電機	www.aichidenki.jp
@@ -59,3 +61,4 @@
 9471	文溪堂	www.bunkei.co.jp
 9643	中日本興業	www.nakanihonkogyo.co.jp
 9664	御園座	www.misonoza.co.jp
+9914	植松商会	uematsushokai.jp
