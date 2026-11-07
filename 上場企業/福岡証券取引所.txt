@@ -15,6 +15,7 @@
 4995	サンケイ化学	www.sankei-chem.com
 5953	昭和鉄工	www.showa.co.jp
 6076	アメイズ	www.az-hotels.co.jp
+6147	ヤマザキ	www.yamazaki-iron.co.jp
 7441	Ｍｉｓｕｍｉ	www.misumi.co.jp
 7851	カワセコンピュータサプライ	www.kc-s.co.jp
 7894	丸東産業	www.marutosangyo.co.jp

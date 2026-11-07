@@ -9,12 +9,12 @@
 2902	太陽化学	www.taiyokagaku.com
 3032	ゴルフ・ドゥ	www.golfdo.co.jp
 3066	ＪＢイレブン	www.jb11.co.jp
-3260	エスポア	www.es-poir.co.jp
 3346	ヒロタグループホールディングス	hirotaghd.com
 3384	アークコア	arkcore.co.jp
 3419	アートグリーン	www.artgreen.co.jp
 3442	ＭＩＥコーポレーション	www.mie-corp.jp
 3504	丸八ホールディングス	www.maruhachi.co.jp
+3670	協立情報通信	www.kccnet.co.jp
 3739	コムシード	www.commseed.net
 3775	ガイアックス	www.gaiax.co.jp
 377A	エージェントＩＧホールディングス	a-gent.co.jp
@@ -34,8 +34,8 @@
 6142	富士精工	www.c-max.co.jp
 6225	エコム	ecom-jp.co.jp
 624A	かがやきホールディングス	kagayaki-grp.com
-640A	ＡＳＮＯＶＡ　Ｃｏｍｐａｎｉｅｓ	www.asnova.co.jp
 6439	中日本鋳工	nakachuko.co.jp
+655A	ＬＴＶ－Ｘ	ltv-x.jp
 6565	ＡＢホテル	www.ab-hotel.jp
 6623	愛知電機	www.aichidenki.jp
 6655	東洋電機	www.toyo-elec.co.jp
@@ -48,6 +48,7 @@
 7675	セントラルフォレストグループ	www.centralforestgroup.co.jp
 7790	バルコス	barcos.jp
 7870	福島印刷	www.fuku.co.jp
+7946	光陽社	www.koyosha-inc.co.jp
 7950	日本デコラックス	www.decoluxe.co.jp
 8071	東海エレクトロニクス	www.tokai-ele.com
 8145	中部水産	www.nagoya-chusui.co.jp
@@ -55,6 +56,7 @@
 8228	マルイチ産商	www.maruichi.com
 9040	大宝運輸	www.taiho-gh.com
 9170	成友興業	seiyukogyo.co.jp
+9334	アイビスホールディングス	ibisholdings.co.jp
 9357	名港海運	www.meiko-trans.co.jp
 9359	伊勢湾海運	www.isewan.co.jp
 9402	中部日本放送	hicbc.com
